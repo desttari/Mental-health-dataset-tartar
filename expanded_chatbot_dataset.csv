@@ -1,0 +1,1201 @@
+text,intent,sentiment,clean_text
+Aku ingin lebih percaya diri tapi selalu ragu.,curhat,negatif,ingin percaya diri tapi selalu ragu
+"Halo, bagaimana harimu?",ngobrol,netral,halo harimu
+Aku ingin menabung tapi pengeluaranku selalu besar.,curhat,negatif,ingin menabung tapi pengeluaranku selalu besar
+Aku sering membandingkan diriku dengan orang lain.,curhat,negatif,sering membandingkan diriku orang lain
+Apa kabar? Aku ingin ngobrol santai.,ngobrol,netral,kabar ingin ngobrol santai
+Aku ingin lebih percaya diri dalam hubungan sosial.,curhat,negatif,ingin percaya diri hubungan sosial
+Bagaimana cara mengatasi overthinking setiap malam?,minta_saran,netral,cara mengatasi overthinking setiap malam
+Aku kecewa dengan teman yang tidak mendukungku.,curhat,negatif,kecewa teman mendukungku
+Aku takut kehilangan pekerjaan dan tidak bisa memenuhi kebutuhan hidup.,curhat,negatif,takut kehilangan pekerjaan memenuhi kebutuhan hidup
+Aku merasa tertekan karena target kerja yang tinggi.,curhat,negatif,merasa tertekan target kerja tinggi
+Apa cara terbaik untuk menjaga kesehatan mental sehari-hari?,minta_saran,netral,cara terbaik menjaga kesehatan mental seharihari
+Aku sering merasa sendirian meskipun ada orang di sekitarku.,curhat,negatif,sering merasa sendirian meskipun ada orang sekitarku
+Aku sering merasa sendirian meskipun ada orang di sekitarku.,curhat,negatif,sering merasa sendirian meskipun ada orang sekitarku
+Aku sulit tidur karena selalu overthinking.,curhat,negatif,sulit tidur selalu overthinking
+Aku ingin lebih percaya diri tapi selalu ragu.,curhat,negatif,ingin percaya diri tapi selalu ragu
+Aku kecewa dengan teman yang tidak mendukungku.,curhat,negatif,kecewa teman mendukungku
+Aku merasa gaji yang aku dapatkan tidak cukup.,curhat,negatif,merasa gaji dapatkan cukup
+Apa yang bisa aku lakukan untuk mengurangi kecemasan?,ngobrol,netral,lakukan mengurangi kecemasan
+Aku kecewa dengan teman yang tidak mendukungku.,curhat,negatif,kecewa teman mendukungku
+Apa cara terbaik untuk menjaga kesehatan mental sehari-hari?,minta_saran,netral,cara terbaik menjaga kesehatan mental seharihari
+Aku takut kehilangan pekerjaan dan tidak bisa memenuhi kebutuhan hidup.,curhat,negatif,takut kehilangan pekerjaan memenuhi kebutuhan hidup
+Aku merasa depresi dan tidak punya semangat hidup.,curhat,negatif,merasa depresi punya semangat hidup
+Ceritakan sesuatu yang bisa membuatku semangat.,ngobrol,netral,ceritakan sesuatu membuatku semangat
+Aku sulit tidur karena selalu overthinking.,curhat,negatif,sulit tidur selalu overthinking
+Aku merasa tertekan karena target kerja yang tinggi.,curhat,negatif,merasa tertekan target kerja tinggi
+Aku ingin merasa lebih baik tapi tidak tahu caranya.,curhat,negatif,ingin merasa baik tapi tahu caranya
+Aku sering berpikir negatif tentang diriku sendiri.,curhat,negatif,sering berpikir negatif tentang diriku sendiri
+Ceritakan sesuatu yang bisa membuatku semangat.,ngobrol,netral,ceritakan sesuatu membuatku semangat
+Aku sering merasa diremehkan oleh orang-orang di sekitarku.,curhat,negatif,sering merasa diremehkan orangorang sekitarku
+Aku takut kehilangan pekerjaan dan tidak bisa memenuhi kebutuhan hidup.,curhat,negatif,takut kehilangan pekerjaan memenuhi kebutuhan hidup
+Aku sering merasa diremehkan oleh orang-orang di sekitarku.,curhat,negatif,sering merasa diremehkan orangorang sekitarku
+Aku merasa tidak mampu mencapai apa yang aku impikan.,curhat,negatif,merasa mampu mencapai impikan
+Aku sering mengingat pengalaman buruk dan merasa sedih.,curhat,negatif,sering mengingat pengalaman buruk merasa sedih
+Aku merasa sendirian meskipun punya banyak teman.,curhat,negatif,merasa sendirian meskipun punya banyak teman
+Aku cemas setiap hari karena takut dimarahi bos.,curhat,negatif,cemas setiap hari takut dimarahi bos
+Aku sering merasa sendirian meskipun ada orang di sekitarku.,curhat,negatif,sering merasa sendirian meskipun ada orang sekitarku
+Aku sering merasa diremehkan oleh orang-orang di sekitarku.,curhat,negatif,sering merasa diremehkan orangorang sekitarku
+Aku sering merasa sendirian meskipun ada orang di sekitarku.,curhat,negatif,sering merasa sendirian meskipun ada orang sekitarku
+Aku merasa orang-orang tidak memahami luka batinku.,curhat,negatif,merasa orangorang memahami luka batinku
+Bagaimana cara meningkatkan kebahagiaan dalam hidup?,ngobrol,netral,cara meningkatkan kebahagiaan hidup
+Aku cemas setiap hari karena takut dimarahi bos.,curhat,negatif,cemas setiap hari takut dimarahi bos
+Aku tidak tahu apakah harus bertahan atau melepaskannya.,curhat,negatif,tahu apakah harus bertahan melepaskannya
+Aku takut kehilangan pekerjaan dan tidak bisa memenuhi kebutuhan hidup.,curhat,negatif,takut kehilangan pekerjaan memenuhi kebutuhan hidup
+Aku merasa stuck di pekerjaan yang tidak aku sukai.,curhat,negatif,merasa stuck pekerjaan sukai
+Aku merasa tidak mampu mencapai apa yang aku impikan.,curhat,negatif,merasa mampu mencapai impikan
+Aku merasa depresi dan tidak punya semangat hidup.,curhat,negatif,merasa depresi punya semangat hidup
+Aku merasa tidak cukup baik dalam segala hal.,curhat,negatif,merasa cukup baik segala hal
+Apa yang bisa aku lakukan untuk mengurangi kecemasan?,ngobrol,netral,lakukan mengurangi kecemasan
+"Halo, bagaimana harimu?",ngobrol,netral,halo harimu
+Bagaimana cara menghadapi orang toxic tanpa stres?,minta_saran,netral,cara menghadapi orang toxic tanpa stres
+Aku sering mengingat pengalaman buruk dan merasa sedih.,curhat,negatif,sering mengingat pengalaman buruk merasa sedih
+Bagaimana menghadapi kegagalan tanpa kehilangan motivasi?,minta_saran,netral,menghadapi kegagalan tanpa kehilangan motivasi
+Aku sering berpikir negatif tentang diriku sendiri.,curhat,negatif,sering berpikir negatif tentang diriku sendiri
+Bagaimana menghadapi kegagalan tanpa kehilangan motivasi?,minta_saran,netral,menghadapi kegagalan tanpa kehilangan motivasi
+Apa langkah pertama untuk membangun kepercayaan diri?,minta_saran,netral,langkah pertama membangun kepercayaan diri
+Apa yang bisa aku lakukan untuk mengurangi kecemasan?,ngobrol,netral,lakukan mengurangi kecemasan
+Aku ingin menabung tapi pengeluaranku selalu besar.,curhat,negatif,ingin menabung tapi pengeluaranku selalu besar
+Aku sulit tidur karena selalu overthinking.,curhat,negatif,sulit tidur selalu overthinking
+Aku merasa tidak cukup baik dalam segala hal.,curhat,negatif,merasa cukup baik segala hal
+Aku merasa orang-orang tidak memahami luka batinku.,curhat,negatif,merasa orangorang memahami luka batinku
+Aku khawatir dengan masa depan finansialku.,curhat,negatif,khawatir masa depan finansialku
+Aku ingin memulai bisnis tapi takut gagal.,curhat,negatif,ingin memulai bisnis tapi takut gagal
+Aku ingin menabung tapi pengeluaranku selalu besar.,curhat,negatif,ingin menabung tapi pengeluaranku selalu besar
+Aku sering stres karena harus membayar cicilan tiap bulan.,curhat,negatif,sering stres harus membayar cicilan tiap bulan
+Aku ingin lebih percaya diri tapi selalu ragu.,curhat,negatif,ingin percaya diri tapi selalu ragu
+Aku takut kehilangan pekerjaan dan tidak bisa memenuhi kebutuhan hidup.,curhat,negatif,takut kehilangan pekerjaan memenuhi kebutuhan hidup
+Aku sulit tidur karena selalu overthinking.,curhat,negatif,sulit tidur selalu overthinking
+Bagaimana menghadapi kegagalan tanpa kehilangan motivasi?,minta_saran,netral,menghadapi kegagalan tanpa kehilangan motivasi
+"Halo, bagaimana harimu?",ngobrol,netral,halo harimu
+Bagaimana cara meningkatkan kebahagiaan dalam hidup?,ngobrol,netral,cara meningkatkan kebahagiaan hidup
+Aku mengalami kejadian traumatis yang sulit aku lupakan.,curhat,negatif,mengalami kejadian traumatis sulit lupakan
+Apa kabar? Aku ingin ngobrol santai.,ngobrol,netral,kabar ingin ngobrol santai
+Aku ingin memulai bisnis tapi takut gagal.,curhat,negatif,ingin memulai bisnis tapi takut gagal
+Aku sering merasa diremehkan oleh orang-orang di sekitarku.,curhat,negatif,sering merasa diremehkan orangorang sekitarku
+Apa cara terbaik untuk menjaga kesehatan mental sehari-hari?,minta_saran,netral,cara terbaik menjaga kesehatan mental seharihari
+Aku sering merasa cemas tanpa alasan yang jelas.,curhat,negatif,sering merasa cemas tanpa alasan jelas
+Apa kabar? Aku ingin ngobrol santai.,ngobrol,netral,kabar ingin ngobrol santai
+Bagaimana cara menghadapi orang toxic tanpa stres?,minta_saran,netral,cara menghadapi orang toxic tanpa stres
+Aku tidak tahu apakah harus bertahan atau melepaskannya.,curhat,negatif,tahu apakah harus bertahan melepaskannya
+Aku kecewa dengan teman yang tidak mendukungku.,curhat,negatif,kecewa teman mendukungku
+Apa kabar? Aku ingin ngobrol santai.,ngobrol,netral,kabar ingin ngobrol santai
+Aku pernah di-bully dan itu masih menyakitiku sampai sekarang.,curhat,negatif,pernah dibully masih menyakitiku sampai sekarang
+Aku sering membandingkan diriku dengan orang lain.,curhat,negatif,sering membandingkan diriku orang lain
+Aku merasa depresi dan tidak punya semangat hidup.,curhat,negatif,merasa depresi punya semangat hidup
+Aku merasa gaji yang aku dapatkan tidak cukup.,curhat,negatif,merasa gaji dapatkan cukup
+Aku kelelahan karena sering lembur tanpa bayaran tambahan.,curhat,negatif,kelelahan sering lembur tanpa bayaran tambahan
+Apa langkah pertama untuk membangun kepercayaan diri?,minta_saran,netral,langkah pertama membangun kepercayaan diri
+Ceritakan sesuatu yang bisa membuatku semangat.,ngobrol,netral,ceritakan sesuatu membuatku semangat
+Aku sering mengingat pengalaman buruk dan merasa sedih.,curhat,negatif,sering mengingat pengalaman buruk merasa sedih
+Aku ingin memulai bisnis tapi takut gagal.,curhat,negatif,ingin memulai bisnis tapi takut gagal
+Aku merasa sendirian meskipun punya banyak teman.,curhat,negatif,merasa sendirian meskipun punya banyak teman
+Aku pernah di-bully dan itu masih menyakitiku sampai sekarang.,curhat,negatif,pernah dibully masih menyakitiku sampai sekarang
+Bagaimana menghadapi kegagalan tanpa kehilangan motivasi?,minta_saran,netral,menghadapi kegagalan tanpa kehilangan motivasi
+Aku merasa gaji yang aku dapatkan tidak cukup.,curhat,negatif,merasa gaji dapatkan cukup
+Aku merasa sendirian meskipun punya banyak teman.,curhat,negatif,merasa sendirian meskipun punya banyak teman
+Aku merasa gaji yang aku dapatkan tidak cukup.,curhat,negatif,merasa gaji dapatkan cukup
+Apa langkah pertama untuk membangun kepercayaan diri?,minta_saran,netral,langkah pertama membangun kepercayaan diri
+Aku kecewa dengan teman yang tidak mendukungku.,curhat,negatif,kecewa teman mendukungku
+Aku sering berpikir negatif tentang diriku sendiri.,curhat,negatif,sering berpikir negatif tentang diriku sendiri
+Aku kecewa dengan teman yang tidak mendukungku.,curhat,negatif,kecewa teman mendukungku
+Aku merasa tidak mampu mencapai apa yang aku impikan.,curhat,negatif,merasa mampu mencapai impikan
+Aku khawatir dengan masa depan finansialku.,curhat,negatif,khawatir masa depan finansialku
+Bagaimana menghadapi kegagalan tanpa kehilangan motivasi?,minta_saran,netral,menghadapi kegagalan tanpa kehilangan motivasi
+Apa yang bisa aku lakukan untuk mengurangi kecemasan?,ngobrol,netral,lakukan mengurangi kecemasan
+Aku sering merasa sendirian meskipun ada orang di sekitarku.,curhat,negatif,sering merasa sendirian meskipun ada orang sekitarku
+Aku ingin menabung tapi pengeluaranku selalu besar.,curhat,negatif,ingin menabung tapi pengeluaranku selalu besar
+Aku merasa depresi dan tidak punya semangat hidup.,curhat,negatif,merasa depresi punya semangat hidup
+Apa kabar? Aku ingin ngobrol santai.,ngobrol,netral,kabar ingin ngobrol santai
+Bagaimana menghadapi kegagalan tanpa kehilangan motivasi?,minta_saran,netral,menghadapi kegagalan tanpa kehilangan motivasi
+Apa langkah pertama untuk membangun kepercayaan diri?,minta_saran,netral,langkah pertama membangun kepercayaan diri
+Aku ingin memulai bisnis tapi takut gagal.,curhat,negatif,ingin memulai bisnis tapi takut gagal
+Aku merasa tidak cukup baik dalam segala hal.,curhat,negatif,merasa cukup baik segala hal
+Aku khawatir dengan masa depan finansialku.,curhat,negatif,khawatir masa depan finansialku
+Bagaimana menghadapi kegagalan tanpa kehilangan motivasi?,minta_saran,netral,menghadapi kegagalan tanpa kehilangan motivasi
+Aku tidak tahu apakah harus bertahan atau melepaskannya.,curhat,negatif,tahu apakah harus bertahan melepaskannya
+Aku merasa sendirian meskipun punya banyak teman.,curhat,negatif,merasa sendirian meskipun punya banyak teman
+"Halo, bagaimana harimu?",ngobrol,netral,halo harimu
+Bagaimana cara meningkatkan kebahagiaan dalam hidup?,ngobrol,netral,cara meningkatkan kebahagiaan hidup
+Bagaimana cara menghadapi orang toxic tanpa stres?,minta_saran,netral,cara menghadapi orang toxic tanpa stres
+Aku sering merasa cemas tanpa alasan yang jelas.,curhat,negatif,sering merasa cemas tanpa alasan jelas
+Aku mengalami kejadian traumatis yang sulit aku lupakan.,curhat,negatif,mengalami kejadian traumatis sulit lupakan
+Aku sering membandingkan diriku dengan orang lain.,curhat,negatif,sering membandingkan diriku orang lain
+Aku sering merasa sendirian meskipun ada orang di sekitarku.,curhat,negatif,sering merasa sendirian meskipun ada orang sekitarku
+Aku sering mengingat pengalaman buruk dan merasa sedih.,curhat,negatif,sering mengingat pengalaman buruk merasa sedih
+Aku ingin mengatasi ketakutan masa lalu tapi sulit sekali.,curhat,negatif,ingin mengatasi ketakutan masa lalu tapi sulit sekali
+Bagaimana cara meningkatkan kebahagiaan dalam hidup?,ngobrol,netral,cara meningkatkan kebahagiaan hidup
+Aku sering berpikir negatif tentang diriku sendiri.,curhat,negatif,sering berpikir negatif tentang diriku sendiri
+Bagaimana cara menghadapi orang toxic tanpa stres?,minta_saran,netral,cara menghadapi orang toxic tanpa stres
+Bagaimana cara meningkatkan kebahagiaan dalam hidup?,ngobrol,netral,cara meningkatkan kebahagiaan hidup
+Ceritakan sesuatu yang bisa membuatku semangat.,ngobrol,netral,ceritakan sesuatu membuatku semangat
+Aku ingin lebih percaya diri dalam hubungan sosial.,curhat,negatif,ingin percaya diri hubungan sosial
+Apa cara terbaik untuk menjaga kesehatan mental sehari-hari?,minta_saran,netral,cara terbaik menjaga kesehatan mental seharihari
+Aku merasa tertekan karena target kerja yang tinggi.,curhat,negatif,merasa tertekan target kerja tinggi
+Aku merasa orang-orang tidak memahami luka batinku.,curhat,negatif,merasa orangorang memahami luka batinku
+Aku merasa tidak mampu mencapai apa yang aku impikan.,curhat,negatif,merasa mampu mencapai impikan
+Aku ingin mengatasi ketakutan masa lalu tapi sulit sekali.,curhat,negatif,ingin mengatasi ketakutan masa lalu tapi sulit sekali
+Aku ingin merasa lebih baik tapi tidak tahu caranya.,curhat,negatif,ingin merasa baik tapi tahu caranya
+Aku merasa sendirian meskipun punya banyak teman.,curhat,negatif,merasa sendirian meskipun punya banyak teman
+Bagaimana menghadapi kegagalan tanpa kehilangan motivasi?,minta_saran,netral,menghadapi kegagalan tanpa kehilangan motivasi
+Aku merasa tidak cukup baik dalam segala hal.,curhat,negatif,merasa cukup baik segala hal
+Bagaimana cara menghadapi orang toxic tanpa stres?,minta_saran,netral,cara menghadapi orang toxic tanpa stres
+Aku pernah di-bully dan itu masih menyakitiku sampai sekarang.,curhat,negatif,pernah dibully masih menyakitiku sampai sekarang
+Bagaimana cara menghadapi orang toxic tanpa stres?,minta_saran,netral,cara menghadapi orang toxic tanpa stres
+Bagaimana cara meningkatkan kebahagiaan dalam hidup?,ngobrol,netral,cara meningkatkan kebahagiaan hidup
+Aku merasa tidak cukup baik dalam segala hal.,curhat,negatif,merasa cukup baik segala hal
+Aku ingin memulai bisnis tapi takut gagal.,curhat,negatif,ingin memulai bisnis tapi takut gagal
+Aku ingin lebih percaya diri dalam hubungan sosial.,curhat,negatif,ingin percaya diri hubungan sosial
+Aku sering merasa diremehkan oleh orang-orang di sekitarku.,curhat,negatif,sering merasa diremehkan orangorang sekitarku
+Aku khawatir dengan masa depan finansialku.,curhat,negatif,khawatir masa depan finansialku
+Aku kelelahan karena sering lembur tanpa bayaran tambahan.,curhat,negatif,kelelahan sering lembur tanpa bayaran tambahan
+Apa cara terbaik untuk menjaga kesehatan mental sehari-hari?,minta_saran,netral,cara terbaik menjaga kesehatan mental seharihari
+Bagaimana cara menghadapi orang toxic tanpa stres?,minta_saran,netral,cara menghadapi orang toxic tanpa stres
+Bagaimana cara mengatasi overthinking setiap malam?,minta_saran,netral,cara mengatasi overthinking setiap malam
+Aku merasa gaji yang aku dapatkan tidak cukup.,curhat,negatif,merasa gaji dapatkan cukup
+Aku sering mengingat pengalaman buruk dan merasa sedih.,curhat,negatif,sering mengingat pengalaman buruk merasa sedih
+Aku merasa tidak cukup baik dalam segala hal.,curhat,negatif,merasa cukup baik segala hal
+Aku tidak tahu apakah harus bertahan atau melepaskannya.,curhat,negatif,tahu apakah harus bertahan melepaskannya
+Apa kabar? Aku ingin ngobrol santai.,ngobrol,netral,kabar ingin ngobrol santai
+Aku khawatir dengan masa depan finansialku.,curhat,negatif,khawatir masa depan finansialku
+Aku kelelahan karena sering lembur tanpa bayaran tambahan.,curhat,negatif,kelelahan sering lembur tanpa bayaran tambahan
+Aku ingin menabung tapi pengeluaranku selalu besar.,curhat,negatif,ingin menabung tapi pengeluaranku selalu besar
+Aku merasa orang-orang tidak memahami luka batinku.,curhat,negatif,merasa orangorang memahami luka batinku
+Ceritakan sesuatu yang bisa membuatku semangat.,ngobrol,netral,ceritakan sesuatu membuatku semangat
+Aku tidak tahu apakah harus bertahan atau melepaskannya.,curhat,negatif,tahu apakah harus bertahan melepaskannya
+Aku merasa tidak mampu mencapai apa yang aku impikan.,curhat,negatif,merasa mampu mencapai impikan
+Aku ingin lebih percaya diri tapi selalu ragu.,curhat,negatif,ingin percaya diri tapi selalu ragu
+Aku kelelahan karena sering lembur tanpa bayaran tambahan.,curhat,negatif,kelelahan sering lembur tanpa bayaran tambahan
+Aku sering mengingat pengalaman buruk dan merasa sedih.,curhat,negatif,sering mengingat pengalaman buruk merasa sedih
+Apa cara terbaik untuk menjaga kesehatan mental sehari-hari?,minta_saran,netral,cara terbaik menjaga kesehatan mental seharihari
+Aku khawatir dengan masa depan finansialku.,curhat,negatif,khawatir masa depan finansialku
+Aku merasa tertekan karena target kerja yang tinggi.,curhat,negatif,merasa tertekan target kerja tinggi
+Aku sering membandingkan diriku dengan orang lain.,curhat,negatif,sering membandingkan diriku orang lain
+Aku sering merasa cemas tanpa alasan yang jelas.,curhat,negatif,sering merasa cemas tanpa alasan jelas
+Aku sering membandingkan diriku dengan orang lain.,curhat,negatif,sering membandingkan diriku orang lain
+Aku ingin lebih percaya diri tapi selalu ragu.,curhat,negatif,ingin percaya diri tapi selalu ragu
+Bagaimana menghadapi kegagalan tanpa kehilangan motivasi?,minta_saran,netral,menghadapi kegagalan tanpa kehilangan motivasi
+Bagaimana cara meningkatkan kebahagiaan dalam hidup?,ngobrol,netral,cara meningkatkan kebahagiaan hidup
+Aku ingin lebih percaya diri tapi selalu ragu.,curhat,negatif,ingin percaya diri tapi selalu ragu
+Aku cemas setiap hari karena takut dimarahi bos.,curhat,negatif,cemas setiap hari takut dimarahi bos
+Aku mengalami kejadian traumatis yang sulit aku lupakan.,curhat,negatif,mengalami kejadian traumatis sulit lupakan
+Bagaimana menghadapi kegagalan tanpa kehilangan motivasi?,minta_saran,netral,menghadapi kegagalan tanpa kehilangan motivasi
+Aku ingin mengatasi ketakutan masa lalu tapi sulit sekali.,curhat,negatif,ingin mengatasi ketakutan masa lalu tapi sulit sekali
+Aku sering membandingkan diriku dengan orang lain.,curhat,negatif,sering membandingkan diriku orang lain
+Aku merasa tertekan karena target kerja yang tinggi.,curhat,negatif,merasa tertekan target kerja tinggi
+Bagaimana cara menghadapi orang toxic tanpa stres?,minta_saran,netral,cara menghadapi orang toxic tanpa stres
+Aku cemas setiap hari karena takut dimarahi bos.,curhat,negatif,cemas setiap hari takut dimarahi bos
+Aku sering merasa diremehkan oleh orang-orang di sekitarku.,curhat,negatif,sering merasa diremehkan orangorang sekitarku
+Aku ingin merasa lebih baik tapi tidak tahu caranya.,curhat,negatif,ingin merasa baik tapi tahu caranya
+Aku sering merasa cemas tanpa alasan yang jelas.,curhat,negatif,sering merasa cemas tanpa alasan jelas
+Aku merasa sendirian meskipun punya banyak teman.,curhat,negatif,merasa sendirian meskipun punya banyak teman
+Aku sering merasa diremehkan oleh orang-orang di sekitarku.,curhat,negatif,sering merasa diremehkan orangorang sekitarku
+Aku sering merasa cemas tanpa alasan yang jelas.,curhat,negatif,sering merasa cemas tanpa alasan jelas
+Aku merasa stuck di pekerjaan yang tidak aku sukai.,curhat,negatif,merasa stuck pekerjaan sukai
+Bagaimana menghadapi kegagalan tanpa kehilangan motivasi?,minta_saran,netral,menghadapi kegagalan tanpa kehilangan motivasi
+Aku sulit tidur karena selalu overthinking.,curhat,negatif,sulit tidur selalu overthinking
+Aku ingin merasa lebih baik tapi tidak tahu caranya.,curhat,negatif,ingin merasa baik tapi tahu caranya
+Apa kabar? Aku ingin ngobrol santai.,ngobrol,netral,kabar ingin ngobrol santai
+Aku kecewa dengan teman yang tidak mendukungku.,curhat,negatif,kecewa teman mendukungku
+Aku sering membandingkan diriku dengan orang lain.,curhat,negatif,sering membandingkan diriku orang lain
+Aku sering merasa diremehkan oleh orang-orang di sekitarku.,curhat,negatif,sering merasa diremehkan orangorang sekitarku
+Aku kecewa dengan teman yang tidak mendukungku.,curhat,negatif,kecewa teman mendukungku
+Aku kelelahan karena sering lembur tanpa bayaran tambahan.,curhat,negatif,kelelahan sering lembur tanpa bayaran tambahan
+Aku ingin menabung tapi pengeluaranku selalu besar.,curhat,negatif,ingin menabung tapi pengeluaranku selalu besar
+Aku sering mengingat pengalaman buruk dan merasa sedih.,curhat,negatif,sering mengingat pengalaman buruk merasa sedih
+Aku kelelahan karena sering lembur tanpa bayaran tambahan.,curhat,negatif,kelelahan sering lembur tanpa bayaran tambahan
+Aku merasa stuck di pekerjaan yang tidak aku sukai.,curhat,negatif,merasa stuck pekerjaan sukai
+Aku ingin lebih percaya diri tapi selalu ragu.,curhat,negatif,ingin percaya diri tapi selalu ragu
+Apa langkah pertama untuk membangun kepercayaan diri?,minta_saran,netral,langkah pertama membangun kepercayaan diri
+Aku merasa depresi dan tidak punya semangat hidup.,curhat,negatif,merasa depresi punya semangat hidup
+Aku sering merasa cemas tanpa alasan yang jelas.,curhat,negatif,sering merasa cemas tanpa alasan jelas
+Aku tidak tahu apakah harus bertahan atau melepaskannya.,curhat,negatif,tahu apakah harus bertahan melepaskannya
+Apa yang bisa aku lakukan untuk mengurangi kecemasan?,ngobrol,netral,lakukan mengurangi kecemasan
+Aku ingin lebih percaya diri tapi selalu ragu.,curhat,negatif,ingin percaya diri tapi selalu ragu
+Aku merasa tertekan karena target kerja yang tinggi.,curhat,negatif,merasa tertekan target kerja tinggi
+Aku tidak tahu apakah harus bertahan atau melepaskannya.,curhat,negatif,tahu apakah harus bertahan melepaskannya
+Apa langkah pertama untuk membangun kepercayaan diri?,minta_saran,netral,langkah pertama membangun kepercayaan diri
+Aku merasa stuck di pekerjaan yang tidak aku sukai.,curhat,negatif,merasa stuck pekerjaan sukai
+Aku takut kehilangan pekerjaan dan tidak bisa memenuhi kebutuhan hidup.,curhat,negatif,takut kehilangan pekerjaan memenuhi kebutuhan hidup
+Aku mengalami kejadian traumatis yang sulit aku lupakan.,curhat,negatif,mengalami kejadian traumatis sulit lupakan
+Ceritakan sesuatu yang bisa membuatku semangat.,ngobrol,netral,ceritakan sesuatu membuatku semangat
+Aku merasa gaji yang aku dapatkan tidak cukup.,curhat,negatif,merasa gaji dapatkan cukup
+Aku tidak tahu apakah harus bertahan atau melepaskannya.,curhat,negatif,tahu apakah harus bertahan melepaskannya
+Apa langkah pertama untuk membangun kepercayaan diri?,minta_saran,netral,langkah pertama membangun kepercayaan diri
+Aku tidak tahu apakah harus bertahan atau melepaskannya.,curhat,negatif,tahu apakah harus bertahan melepaskannya
+Apa langkah pertama untuk membangun kepercayaan diri?,minta_saran,netral,langkah pertama membangun kepercayaan diri
+Aku sering mengingat pengalaman buruk dan merasa sedih.,curhat,negatif,sering mengingat pengalaman buruk merasa sedih
+Aku merasa stuck di pekerjaan yang tidak aku sukai.,curhat,negatif,merasa stuck pekerjaan sukai
+Aku pernah di-bully dan itu masih menyakitiku sampai sekarang.,curhat,negatif,pernah dibully masih menyakitiku sampai sekarang
+Bagaimana cara menghadapi orang toxic tanpa stres?,minta_saran,netral,cara menghadapi orang toxic tanpa stres
+Aku takut kehilangan pekerjaan dan tidak bisa memenuhi kebutuhan hidup.,curhat,negatif,takut kehilangan pekerjaan memenuhi kebutuhan hidup
+Apa yang bisa aku lakukan untuk mengurangi kecemasan?,ngobrol,netral,lakukan mengurangi kecemasan
+Aku sering stres karena harus membayar cicilan tiap bulan.,curhat,negatif,sering stres harus membayar cicilan tiap bulan
+Aku tidak tahu apakah harus bertahan atau melepaskannya.,curhat,negatif,tahu apakah harus bertahan melepaskannya
+Bagaimana cara mengatasi overthinking setiap malam?,minta_saran,netral,cara mengatasi overthinking setiap malam
+Aku ingin lebih percaya diri dalam hubungan sosial.,curhat,negatif,ingin percaya diri hubungan sosial
+Aku merasa orang-orang tidak memahami luka batinku.,curhat,negatif,merasa orangorang memahami luka batinku
+Aku mengalami kejadian traumatis yang sulit aku lupakan.,curhat,negatif,mengalami kejadian traumatis sulit lupakan
+Aku sering mengingat pengalaman buruk dan merasa sedih.,curhat,negatif,sering mengingat pengalaman buruk merasa sedih
+Apa kabar? Aku ingin ngobrol santai.,ngobrol,netral,kabar ingin ngobrol santai
+Apa langkah pertama untuk membangun kepercayaan diri?,minta_saran,netral,langkah pertama membangun kepercayaan diri
+Aku sering mengingat pengalaman buruk dan merasa sedih.,curhat,negatif,sering mengingat pengalaman buruk merasa sedih
+Aku merasa depresi dan tidak punya semangat hidup.,curhat,negatif,merasa depresi punya semangat hidup
+Aku merasa sendirian meskipun punya banyak teman.,curhat,negatif,merasa sendirian meskipun punya banyak teman
+Aku sering merasa cemas tanpa alasan yang jelas.,curhat,negatif,sering merasa cemas tanpa alasan jelas
+Apa langkah pertama untuk membangun kepercayaan diri?,minta_saran,netral,langkah pertama membangun kepercayaan diri
+Aku kelelahan karena sering lembur tanpa bayaran tambahan.,curhat,negatif,kelelahan sering lembur tanpa bayaran tambahan
+Aku sering merasa sendirian meskipun ada orang di sekitarku.,curhat,negatif,sering merasa sendirian meskipun ada orang sekitarku
+Aku merasa sendirian meskipun punya banyak teman.,curhat,negatif,merasa sendirian meskipun punya banyak teman
+Aku merasa depresi dan tidak punya semangat hidup.,curhat,negatif,merasa depresi punya semangat hidup
+Aku sering merasa sendirian meskipun ada orang di sekitarku.,curhat,negatif,sering merasa sendirian meskipun ada orang sekitarku
+Bagaimana cara menghadapi orang toxic tanpa stres?,minta_saran,netral,cara menghadapi orang toxic tanpa stres
+Aku takut kehilangan pekerjaan dan tidak bisa memenuhi kebutuhan hidup.,curhat,negatif,takut kehilangan pekerjaan memenuhi kebutuhan hidup
+Aku kecewa dengan teman yang tidak mendukungku.,curhat,negatif,kecewa teman mendukungku
+Apa cara terbaik untuk menjaga kesehatan mental sehari-hari?,minta_saran,netral,cara terbaik menjaga kesehatan mental seharihari
+Aku ingin merasa lebih baik tapi tidak tahu caranya.,curhat,negatif,ingin merasa baik tapi tahu caranya
+Apa cara terbaik untuk menjaga kesehatan mental sehari-hari?,minta_saran,netral,cara terbaik menjaga kesehatan mental seharihari
+Aku merasa tertekan karena target kerja yang tinggi.,curhat,negatif,merasa tertekan target kerja tinggi
+Aku kelelahan karena sering lembur tanpa bayaran tambahan.,curhat,negatif,kelelahan sering lembur tanpa bayaran tambahan
+Aku ingin merasa lebih baik tapi tidak tahu caranya.,curhat,negatif,ingin merasa baik tapi tahu caranya
+Bagaimana menghadapi kegagalan tanpa kehilangan motivasi?,minta_saran,netral,menghadapi kegagalan tanpa kehilangan motivasi
+Aku mengalami kejadian traumatis yang sulit aku lupakan.,curhat,negatif,mengalami kejadian traumatis sulit lupakan
+Aku khawatir dengan masa depan finansialku.,curhat,negatif,khawatir masa depan finansialku
+"Halo, bagaimana harimu?",ngobrol,netral,halo harimu
+Aku takut kehilangan pekerjaan dan tidak bisa memenuhi kebutuhan hidup.,curhat,negatif,takut kehilangan pekerjaan memenuhi kebutuhan hidup
+Apa yang bisa aku lakukan untuk mengurangi kecemasan?,ngobrol,netral,lakukan mengurangi kecemasan
+Bagaimana cara meningkatkan kebahagiaan dalam hidup?,ngobrol,netral,cara meningkatkan kebahagiaan hidup
+Aku sering merasa diremehkan oleh orang-orang di sekitarku.,curhat,negatif,sering merasa diremehkan orangorang sekitarku
+Aku merasa sendirian meskipun punya banyak teman.,curhat,negatif,merasa sendirian meskipun punya banyak teman
+Apa kabar? Aku ingin ngobrol santai.,ngobrol,netral,kabar ingin ngobrol santai
+Aku sering berpikir negatif tentang diriku sendiri.,curhat,negatif,sering berpikir negatif tentang diriku sendiri
+Aku ingin merasa lebih baik tapi tidak tahu caranya.,curhat,negatif,ingin merasa baik tapi tahu caranya
+Aku sering merasa diremehkan oleh orang-orang di sekitarku.,curhat,negatif,sering merasa diremehkan orangorang sekitarku
+Aku merasa tertekan karena target kerja yang tinggi.,curhat,negatif,merasa tertekan target kerja tinggi
+Aku sering mengingat pengalaman buruk dan merasa sedih.,curhat,negatif,sering mengingat pengalaman buruk merasa sedih
+Apa kabar? Aku ingin ngobrol santai.,ngobrol,netral,kabar ingin ngobrol santai
+Aku sulit tidur karena selalu overthinking.,curhat,negatif,sulit tidur selalu overthinking
+Aku sering berpikir negatif tentang diriku sendiri.,curhat,negatif,sering berpikir negatif tentang diriku sendiri
+Aku ingin mengatasi ketakutan masa lalu tapi sulit sekali.,curhat,negatif,ingin mengatasi ketakutan masa lalu tapi sulit sekali
+"Halo, bagaimana harimu?",ngobrol,netral,halo harimu
+Aku sering merasa cemas tanpa alasan yang jelas.,curhat,negatif,sering merasa cemas tanpa alasan jelas
+Aku merasa tidak mampu mencapai apa yang aku impikan.,curhat,negatif,merasa mampu mencapai impikan
+Aku pernah di-bully dan itu masih menyakitiku sampai sekarang.,curhat,negatif,pernah dibully masih menyakitiku sampai sekarang
+"Halo, bagaimana harimu?",ngobrol,netral,halo harimu
+Aku sering stres karena harus membayar cicilan tiap bulan.,curhat,negatif,sering stres harus membayar cicilan tiap bulan
+Aku sering merasa diremehkan oleh orang-orang di sekitarku.,curhat,negatif,sering merasa diremehkan orangorang sekitarku
+Aku sering merasa sendirian meskipun ada orang di sekitarku.,curhat,negatif,sering merasa sendirian meskipun ada orang sekitarku
+Aku merasa orang-orang tidak memahami luka batinku.,curhat,negatif,merasa orangorang memahami luka batinku
+Aku ingin memulai bisnis tapi takut gagal.,curhat,negatif,ingin memulai bisnis tapi takut gagal
+Bagaimana cara mengatasi overthinking setiap malam?,minta_saran,netral,cara mengatasi overthinking setiap malam
+Apa kabar? Aku ingin ngobrol santai.,ngobrol,netral,kabar ingin ngobrol santai
+Aku ingin memulai bisnis tapi takut gagal.,curhat,negatif,ingin memulai bisnis tapi takut gagal
+Apa langkah pertama untuk membangun kepercayaan diri?,minta_saran,netral,langkah pertama membangun kepercayaan diri
+"Halo, bagaimana harimu?",ngobrol,netral,halo harimu
+Aku sulit tidur karena selalu overthinking.,curhat,negatif,sulit tidur selalu overthinking
+Aku merasa stuck di pekerjaan yang tidak aku sukai.,curhat,negatif,merasa stuck pekerjaan sukai
+Aku cemas setiap hari karena takut dimarahi bos.,curhat,negatif,cemas setiap hari takut dimarahi bos
+Aku merasa sendirian meskipun punya banyak teman.,curhat,negatif,merasa sendirian meskipun punya banyak teman
+Apa yang bisa aku lakukan untuk mengurangi kecemasan?,ngobrol,netral,lakukan mengurangi kecemasan
+Aku takut kehilangan pekerjaan dan tidak bisa memenuhi kebutuhan hidup.,curhat,negatif,takut kehilangan pekerjaan memenuhi kebutuhan hidup
+Aku khawatir dengan masa depan finansialku.,curhat,negatif,khawatir masa depan finansialku
+Bagaimana cara menghadapi orang toxic tanpa stres?,minta_saran,netral,cara menghadapi orang toxic tanpa stres
+Aku sering merasa sendirian meskipun ada orang di sekitarku.,curhat,negatif,sering merasa sendirian meskipun ada orang sekitarku
+Aku merasa depresi dan tidak punya semangat hidup.,curhat,negatif,merasa depresi punya semangat hidup
+"Halo, bagaimana harimu?",ngobrol,netral,halo harimu
+Aku ingin memulai bisnis tapi takut gagal.,curhat,negatif,ingin memulai bisnis tapi takut gagal
+Aku sering merasa sendirian meskipun ada orang di sekitarku.,curhat,negatif,sering merasa sendirian meskipun ada orang sekitarku
+Aku pernah di-bully dan itu masih menyakitiku sampai sekarang.,curhat,negatif,pernah dibully masih menyakitiku sampai sekarang
+Ceritakan sesuatu yang bisa membuatku semangat.,ngobrol,netral,ceritakan sesuatu membuatku semangat
+Aku mengalami kejadian traumatis yang sulit aku lupakan.,curhat,negatif,mengalami kejadian traumatis sulit lupakan
+Aku sering mengingat pengalaman buruk dan merasa sedih.,curhat,negatif,sering mengingat pengalaman buruk merasa sedih
+Bagaimana menghadapi kegagalan tanpa kehilangan motivasi?,minta_saran,netral,menghadapi kegagalan tanpa kehilangan motivasi
+Bagaimana menghadapi kegagalan tanpa kehilangan motivasi?,minta_saran,netral,menghadapi kegagalan tanpa kehilangan motivasi
+Aku ingin mengatasi ketakutan masa lalu tapi sulit sekali.,curhat,negatif,ingin mengatasi ketakutan masa lalu tapi sulit sekali
+Aku sering merasa diremehkan oleh orang-orang di sekitarku.,curhat,negatif,sering merasa diremehkan orangorang sekitarku
+Aku kelelahan karena sering lembur tanpa bayaran tambahan.,curhat,negatif,kelelahan sering lembur tanpa bayaran tambahan
+Apa yang bisa aku lakukan untuk mengurangi kecemasan?,ngobrol,netral,lakukan mengurangi kecemasan
+Aku sering stres karena harus membayar cicilan tiap bulan.,curhat,negatif,sering stres harus membayar cicilan tiap bulan
+Aku sering merasa cemas tanpa alasan yang jelas.,curhat,negatif,sering merasa cemas tanpa alasan jelas
+Aku kelelahan karena sering lembur tanpa bayaran tambahan.,curhat,negatif,kelelahan sering lembur tanpa bayaran tambahan
+Bagaimana cara menghadapi orang toxic tanpa stres?,minta_saran,netral,cara menghadapi orang toxic tanpa stres
+Apa yang bisa aku lakukan untuk mengurangi kecemasan?,ngobrol,netral,lakukan mengurangi kecemasan
+Aku mengalami kejadian traumatis yang sulit aku lupakan.,curhat,negatif,mengalami kejadian traumatis sulit lupakan
+Aku takut kehilangan pekerjaan dan tidak bisa memenuhi kebutuhan hidup.,curhat,negatif,takut kehilangan pekerjaan memenuhi kebutuhan hidup
+Aku merasa gaji yang aku dapatkan tidak cukup.,curhat,negatif,merasa gaji dapatkan cukup
+Aku ingin mengatasi ketakutan masa lalu tapi sulit sekali.,curhat,negatif,ingin mengatasi ketakutan masa lalu tapi sulit sekali
+Aku sering stres karena harus membayar cicilan tiap bulan.,curhat,negatif,sering stres harus membayar cicilan tiap bulan
+Aku cemas setiap hari karena takut dimarahi bos.,curhat,negatif,cemas setiap hari takut dimarahi bos
+Apa langkah pertama untuk membangun kepercayaan diri?,minta_saran,netral,langkah pertama membangun kepercayaan diri
+Aku merasa tertekan karena target kerja yang tinggi.,curhat,negatif,merasa tertekan target kerja tinggi
+Aku takut kehilangan pekerjaan dan tidak bisa memenuhi kebutuhan hidup.,curhat,negatif,takut kehilangan pekerjaan memenuhi kebutuhan hidup
+Aku sering merasa cemas tanpa alasan yang jelas.,curhat,negatif,sering merasa cemas tanpa alasan jelas
+Aku sering merasa diremehkan oleh orang-orang di sekitarku.,curhat,negatif,sering merasa diremehkan orangorang sekitarku
+Aku sulit tidur karena selalu overthinking.,curhat,negatif,sulit tidur selalu overthinking
+Aku merasa sendirian meskipun punya banyak teman.,curhat,negatif,merasa sendirian meskipun punya banyak teman
+Aku tidak tahu apakah harus bertahan atau melepaskannya.,curhat,negatif,tahu apakah harus bertahan melepaskannya
+Apa yang bisa aku lakukan untuk mengurangi kecemasan?,ngobrol,netral,lakukan mengurangi kecemasan
+Bagaimana cara meningkatkan kebahagiaan dalam hidup?,ngobrol,netral,cara meningkatkan kebahagiaan hidup
+Aku ingin mengatasi ketakutan masa lalu tapi sulit sekali.,curhat,negatif,ingin mengatasi ketakutan masa lalu tapi sulit sekali
+Aku ingin memulai bisnis tapi takut gagal.,curhat,negatif,ingin memulai bisnis tapi takut gagal
+Aku ingin merasa lebih baik tapi tidak tahu caranya.,curhat,negatif,ingin merasa baik tapi tahu caranya
+Aku sering stres karena harus membayar cicilan tiap bulan.,curhat,negatif,sering stres harus membayar cicilan tiap bulan
+Aku merasa depresi dan tidak punya semangat hidup.,curhat,negatif,merasa depresi punya semangat hidup
+Aku merasa tertekan karena target kerja yang tinggi.,curhat,negatif,merasa tertekan target kerja tinggi
+Aku sulit tidur karena selalu overthinking.,curhat,negatif,sulit tidur selalu overthinking
+Apa yang bisa aku lakukan untuk mengurangi kecemasan?,ngobrol,netral,lakukan mengurangi kecemasan
+Aku cemas setiap hari karena takut dimarahi bos.,curhat,negatif,cemas setiap hari takut dimarahi bos
+Ceritakan sesuatu yang bisa membuatku semangat.,ngobrol,netral,ceritakan sesuatu membuatku semangat
+Ceritakan sesuatu yang bisa membuatku semangat.,ngobrol,netral,ceritakan sesuatu membuatku semangat
+Aku ingin merasa lebih baik tapi tidak tahu caranya.,curhat,negatif,ingin merasa baik tapi tahu caranya
+Aku merasa tidak mampu mencapai apa yang aku impikan.,curhat,negatif,merasa mampu mencapai impikan
+Aku ingin lebih percaya diri tapi selalu ragu.,curhat,negatif,ingin percaya diri tapi selalu ragu
+Aku sulit tidur karena selalu overthinking.,curhat,negatif,sulit tidur selalu overthinking
+Aku cemas setiap hari karena takut dimarahi bos.,curhat,negatif,cemas setiap hari takut dimarahi bos
+Aku sering mengingat pengalaman buruk dan merasa sedih.,curhat,negatif,sering mengingat pengalaman buruk merasa sedih
+Aku sering stres karena harus membayar cicilan tiap bulan.,curhat,negatif,sering stres harus membayar cicilan tiap bulan
+Aku mengalami kejadian traumatis yang sulit aku lupakan.,curhat,negatif,mengalami kejadian traumatis sulit lupakan
+Aku merasa stuck di pekerjaan yang tidak aku sukai.,curhat,negatif,merasa stuck pekerjaan sukai
+Ceritakan sesuatu yang bisa membuatku semangat.,ngobrol,netral,ceritakan sesuatu membuatku semangat
+Aku sulit tidur karena selalu overthinking.,curhat,negatif,sulit tidur selalu overthinking
+Bagaimana cara mengatasi overthinking setiap malam?,minta_saran,netral,cara mengatasi overthinking setiap malam
+Aku sering merasa diremehkan oleh orang-orang di sekitarku.,curhat,negatif,sering merasa diremehkan orangorang sekitarku
+Aku sering merasa cemas tanpa alasan yang jelas.,curhat,negatif,sering merasa cemas tanpa alasan jelas
+Aku merasa gaji yang aku dapatkan tidak cukup.,curhat,negatif,merasa gaji dapatkan cukup
+Apa kabar? Aku ingin ngobrol santai.,ngobrol,netral,kabar ingin ngobrol santai
+Aku cemas setiap hari karena takut dimarahi bos.,curhat,negatif,cemas setiap hari takut dimarahi bos
+Aku sering merasa diremehkan oleh orang-orang di sekitarku.,curhat,negatif,sering merasa diremehkan orangorang sekitarku
+Aku ingin merasa lebih baik tapi tidak tahu caranya.,curhat,negatif,ingin merasa baik tapi tahu caranya
+Aku merasa sendirian meskipun punya banyak teman.,curhat,negatif,merasa sendirian meskipun punya banyak teman
+Aku khawatir dengan masa depan finansialku.,curhat,negatif,khawatir masa depan finansialku
+Aku ingin lebih percaya diri tapi selalu ragu.,curhat,negatif,ingin percaya diri tapi selalu ragu
+Aku kecewa dengan teman yang tidak mendukungku.,curhat,negatif,kecewa teman mendukungku
+Bagaimana cara meningkatkan kebahagiaan dalam hidup?,ngobrol,netral,cara meningkatkan kebahagiaan hidup
+Aku kecewa dengan teman yang tidak mendukungku.,curhat,negatif,kecewa teman mendukungku
+Bagaimana cara mengatasi overthinking setiap malam?,minta_saran,netral,cara mengatasi overthinking setiap malam
+Aku sering stres karena harus membayar cicilan tiap bulan.,curhat,negatif,sering stres harus membayar cicilan tiap bulan
+Bagaimana cara meningkatkan kebahagiaan dalam hidup?,ngobrol,netral,cara meningkatkan kebahagiaan hidup
+Apa langkah pertama untuk membangun kepercayaan diri?,minta_saran,netral,langkah pertama membangun kepercayaan diri
+Aku merasa tertekan karena target kerja yang tinggi.,curhat,negatif,merasa tertekan target kerja tinggi
+Aku ingin memulai bisnis tapi takut gagal.,curhat,negatif,ingin memulai bisnis tapi takut gagal
+Aku merasa tidak cukup baik dalam segala hal.,curhat,negatif,merasa cukup baik segala hal
+Aku ingin lebih percaya diri dalam hubungan sosial.,curhat,negatif,ingin percaya diri hubungan sosial
+Aku merasa tidak mampu mencapai apa yang aku impikan.,curhat,negatif,merasa mampu mencapai impikan
+Aku sering mengingat pengalaman buruk dan merasa sedih.,curhat,negatif,sering mengingat pengalaman buruk merasa sedih
+"Halo, bagaimana harimu?",ngobrol,netral,halo harimu
+Aku merasa stuck di pekerjaan yang tidak aku sukai.,curhat,negatif,merasa stuck pekerjaan sukai
+Aku sulit tidur karena selalu overthinking.,curhat,negatif,sulit tidur selalu overthinking
+Aku kecewa dengan teman yang tidak mendukungku.,curhat,negatif,kecewa teman mendukungku
+Aku pernah di-bully dan itu masih menyakitiku sampai sekarang.,curhat,negatif,pernah dibully masih menyakitiku sampai sekarang
+Aku merasa depresi dan tidak punya semangat hidup.,curhat,negatif,merasa depresi punya semangat hidup
+Aku sering membandingkan diriku dengan orang lain.,curhat,negatif,sering membandingkan diriku orang lain
+Aku ingin menabung tapi pengeluaranku selalu besar.,curhat,negatif,ingin menabung tapi pengeluaranku selalu besar
+Aku cemas setiap hari karena takut dimarahi bos.,curhat,negatif,cemas setiap hari takut dimarahi bos
+Aku sulit tidur karena selalu overthinking.,curhat,negatif,sulit tidur selalu overthinking
+Aku merasa tertekan karena target kerja yang tinggi.,curhat,negatif,merasa tertekan target kerja tinggi
+Ceritakan sesuatu yang bisa membuatku semangat.,ngobrol,netral,ceritakan sesuatu membuatku semangat
+Aku merasa gaji yang aku dapatkan tidak cukup.,curhat,negatif,merasa gaji dapatkan cukup
+Aku merasa depresi dan tidak punya semangat hidup.,curhat,negatif,merasa depresi punya semangat hidup
+Aku kecewa dengan teman yang tidak mendukungku.,curhat,negatif,kecewa teman mendukungku
+Bagaimana cara meningkatkan kebahagiaan dalam hidup?,ngobrol,netral,cara meningkatkan kebahagiaan hidup
+Aku sering merasa sendirian meskipun ada orang di sekitarku.,curhat,negatif,sering merasa sendirian meskipun ada orang sekitarku
+Aku kelelahan karena sering lembur tanpa bayaran tambahan.,curhat,negatif,kelelahan sering lembur tanpa bayaran tambahan
+Ceritakan sesuatu yang bisa membuatku semangat.,ngobrol,netral,ceritakan sesuatu membuatku semangat
+Bagaimana menghadapi kegagalan tanpa kehilangan motivasi?,minta_saran,netral,menghadapi kegagalan tanpa kehilangan motivasi
+Aku tidak tahu apakah harus bertahan atau melepaskannya.,curhat,negatif,tahu apakah harus bertahan melepaskannya
+Aku sering berpikir negatif tentang diriku sendiri.,curhat,negatif,sering berpikir negatif tentang diriku sendiri
+Bagaimana cara menghadapi orang toxic tanpa stres?,minta_saran,netral,cara menghadapi orang toxic tanpa stres
+Aku sering merasa cemas tanpa alasan yang jelas.,curhat,negatif,sering merasa cemas tanpa alasan jelas
+Aku merasa tidak mampu mencapai apa yang aku impikan.,curhat,negatif,merasa mampu mencapai impikan
+Aku sering merasa sendirian meskipun ada orang di sekitarku.,curhat,negatif,sering merasa sendirian meskipun ada orang sekitarku
+"Halo, bagaimana harimu?",ngobrol,netral,halo harimu
+Aku khawatir dengan masa depan finansialku.,curhat,negatif,khawatir masa depan finansialku
+Aku ingin merasa lebih baik tapi tidak tahu caranya.,curhat,negatif,ingin merasa baik tapi tahu caranya
+Aku merasa gaji yang aku dapatkan tidak cukup.,curhat,negatif,merasa gaji dapatkan cukup
+Aku merasa stuck di pekerjaan yang tidak aku sukai.,curhat,negatif,merasa stuck pekerjaan sukai
+Bagaimana menghadapi kegagalan tanpa kehilangan motivasi?,minta_saran,netral,menghadapi kegagalan tanpa kehilangan motivasi
+Aku pernah di-bully dan itu masih menyakitiku sampai sekarang.,curhat,negatif,pernah dibully masih menyakitiku sampai sekarang
+Aku merasa gaji yang aku dapatkan tidak cukup.,curhat,negatif,merasa gaji dapatkan cukup
+Aku sering mengingat pengalaman buruk dan merasa sedih.,curhat,negatif,sering mengingat pengalaman buruk merasa sedih
+Aku pernah di-bully dan itu masih menyakitiku sampai sekarang.,curhat,negatif,pernah dibully masih menyakitiku sampai sekarang
+Aku ingin lebih percaya diri tapi selalu ragu.,curhat,negatif,ingin percaya diri tapi selalu ragu
+Aku merasa gaji yang aku dapatkan tidak cukup.,curhat,negatif,merasa gaji dapatkan cukup
+Aku sering stres karena harus membayar cicilan tiap bulan.,curhat,negatif,sering stres harus membayar cicilan tiap bulan
+Aku ingin mengatasi ketakutan masa lalu tapi sulit sekali.,curhat,negatif,ingin mengatasi ketakutan masa lalu tapi sulit sekali
+Aku merasa stuck di pekerjaan yang tidak aku sukai.,curhat,negatif,merasa stuck pekerjaan sukai
+Aku ingin menabung tapi pengeluaranku selalu besar.,curhat,negatif,ingin menabung tapi pengeluaranku selalu besar
+"Halo, bagaimana harimu?",ngobrol,netral,halo harimu
+Aku merasa orang-orang tidak memahami luka batinku.,curhat,negatif,merasa orangorang memahami luka batinku
+Bagaimana cara mengatasi overthinking setiap malam?,minta_saran,netral,cara mengatasi overthinking setiap malam
+Aku takut kehilangan pekerjaan dan tidak bisa memenuhi kebutuhan hidup.,curhat,negatif,takut kehilangan pekerjaan memenuhi kebutuhan hidup
+Aku merasa orang-orang tidak memahami luka batinku.,curhat,negatif,merasa orangorang memahami luka batinku
+Aku merasa depresi dan tidak punya semangat hidup.,curhat,negatif,merasa depresi punya semangat hidup
+Aku ingin menabung tapi pengeluaranku selalu besar.,curhat,negatif,ingin menabung tapi pengeluaranku selalu besar
+Aku ingin merasa lebih baik tapi tidak tahu caranya.,curhat,negatif,ingin merasa baik tapi tahu caranya
+Aku kecewa dengan teman yang tidak mendukungku.,curhat,negatif,kecewa teman mendukungku
+Aku sulit tidur karena selalu overthinking.,curhat,negatif,sulit tidur selalu overthinking
+Aku kelelahan karena sering lembur tanpa bayaran tambahan.,curhat,negatif,kelelahan sering lembur tanpa bayaran tambahan
+Apa langkah pertama untuk membangun kepercayaan diri?,minta_saran,netral,langkah pertama membangun kepercayaan diri
+Aku sering merasa cemas tanpa alasan yang jelas.,curhat,negatif,sering merasa cemas tanpa alasan jelas
+Bagaimana cara menghadapi orang toxic tanpa stres?,minta_saran,netral,cara menghadapi orang toxic tanpa stres
+Aku merasa gaji yang aku dapatkan tidak cukup.,curhat,negatif,merasa gaji dapatkan cukup
+Aku cemas setiap hari karena takut dimarahi bos.,curhat,negatif,cemas setiap hari takut dimarahi bos
+Aku merasa tidak cukup baik dalam segala hal.,curhat,negatif,merasa cukup baik segala hal
+Aku pernah di-bully dan itu masih menyakitiku sampai sekarang.,curhat,negatif,pernah dibully masih menyakitiku sampai sekarang
+Aku khawatir dengan masa depan finansialku.,curhat,negatif,khawatir masa depan finansialku
+Bagaimana cara mengatasi overthinking setiap malam?,minta_saran,netral,cara mengatasi overthinking setiap malam
+Bagaimana cara meningkatkan kebahagiaan dalam hidup?,ngobrol,netral,cara meningkatkan kebahagiaan hidup
+Aku ingin memulai bisnis tapi takut gagal.,curhat,negatif,ingin memulai bisnis tapi takut gagal
+Aku kelelahan karena sering lembur tanpa bayaran tambahan.,curhat,negatif,kelelahan sering lembur tanpa bayaran tambahan
+Aku merasa sendirian meskipun punya banyak teman.,curhat,negatif,merasa sendirian meskipun punya banyak teman
+Aku sering membandingkan diriku dengan orang lain.,curhat,negatif,sering membandingkan diriku orang lain
+Aku kecewa dengan teman yang tidak mendukungku.,curhat,negatif,kecewa teman mendukungku
+Bagaimana cara menghadapi orang toxic tanpa stres?,minta_saran,netral,cara menghadapi orang toxic tanpa stres
+Aku kecewa dengan teman yang tidak mendukungku.,curhat,negatif,kecewa teman mendukungku
+Bagaimana cara mengatasi overthinking setiap malam?,minta_saran,netral,cara mengatasi overthinking setiap malam
+Aku takut kehilangan pekerjaan dan tidak bisa memenuhi kebutuhan hidup.,curhat,negatif,takut kehilangan pekerjaan memenuhi kebutuhan hidup
+Aku ingin menabung tapi pengeluaranku selalu besar.,curhat,negatif,ingin menabung tapi pengeluaranku selalu besar
+Aku ingin menabung tapi pengeluaranku selalu besar.,curhat,negatif,ingin menabung tapi pengeluaranku selalu besar
+Aku ingin lebih percaya diri dalam hubungan sosial.,curhat,negatif,ingin percaya diri hubungan sosial
+Aku sering merasa sendirian meskipun ada orang di sekitarku.,curhat,negatif,sering merasa sendirian meskipun ada orang sekitarku
+Bagaimana cara meningkatkan kebahagiaan dalam hidup?,ngobrol,netral,cara meningkatkan kebahagiaan hidup
+Aku merasa stuck di pekerjaan yang tidak aku sukai.,curhat,negatif,merasa stuck pekerjaan sukai
+Aku merasa gaji yang aku dapatkan tidak cukup.,curhat,negatif,merasa gaji dapatkan cukup
+Ceritakan sesuatu yang bisa membuatku semangat.,ngobrol,netral,ceritakan sesuatu membuatku semangat
+"Halo, bagaimana harimu?",ngobrol,netral,halo harimu
+Aku mengalami kejadian traumatis yang sulit aku lupakan.,curhat,negatif,mengalami kejadian traumatis sulit lupakan
+"Halo, bagaimana harimu?",ngobrol,netral,halo harimu
+Aku sering membandingkan diriku dengan orang lain.,curhat,negatif,sering membandingkan diriku orang lain
+Aku sering merasa sendirian meskipun ada orang di sekitarku.,curhat,negatif,sering merasa sendirian meskipun ada orang sekitarku
+Aku sering mengingat pengalaman buruk dan merasa sedih.,curhat,negatif,sering mengingat pengalaman buruk merasa sedih
+Aku ingin lebih percaya diri tapi selalu ragu.,curhat,negatif,ingin percaya diri tapi selalu ragu
+"Halo, bagaimana harimu?",ngobrol,netral,halo harimu
+Aku sering mengingat pengalaman buruk dan merasa sedih.,curhat,negatif,sering mengingat pengalaman buruk merasa sedih
+Aku khawatir dengan masa depan finansialku.,curhat,negatif,khawatir masa depan finansialku
+Aku merasa depresi dan tidak punya semangat hidup.,curhat,negatif,merasa depresi punya semangat hidup
+Aku sering membandingkan diriku dengan orang lain.,curhat,negatif,sering membandingkan diriku orang lain
+Aku sering membandingkan diriku dengan orang lain.,curhat,negatif,sering membandingkan diriku orang lain
+Aku cemas setiap hari karena takut dimarahi bos.,curhat,negatif,cemas setiap hari takut dimarahi bos
+Aku sering merasa cemas tanpa alasan yang jelas.,curhat,negatif,sering merasa cemas tanpa alasan jelas
+Aku ingin lebih percaya diri dalam hubungan sosial.,curhat,negatif,ingin percaya diri hubungan sosial
+"Halo, bagaimana harimu?",ngobrol,netral,halo harimu
+Aku merasa orang-orang tidak memahami luka batinku.,curhat,negatif,merasa orangorang memahami luka batinku
+Aku ingin lebih percaya diri dalam hubungan sosial.,curhat,negatif,ingin percaya diri hubungan sosial
+Aku kecewa dengan teman yang tidak mendukungku.,curhat,negatif,kecewa teman mendukungku
+Aku ingin mengatasi ketakutan masa lalu tapi sulit sekali.,curhat,negatif,ingin mengatasi ketakutan masa lalu tapi sulit sekali
+Aku sering mengingat pengalaman buruk dan merasa sedih.,curhat,negatif,sering mengingat pengalaman buruk merasa sedih
+Aku sering berpikir negatif tentang diriku sendiri.,curhat,negatif,sering berpikir negatif tentang diriku sendiri
+Apa kabar? Aku ingin ngobrol santai.,ngobrol,netral,kabar ingin ngobrol santai
+Aku sering stres karena harus membayar cicilan tiap bulan.,curhat,negatif,sering stres harus membayar cicilan tiap bulan
+Aku ingin mengatasi ketakutan masa lalu tapi sulit sekali.,curhat,negatif,ingin mengatasi ketakutan masa lalu tapi sulit sekali
+Aku ingin merasa lebih baik tapi tidak tahu caranya.,curhat,negatif,ingin merasa baik tapi tahu caranya
+Aku mengalami kejadian traumatis yang sulit aku lupakan.,curhat,negatif,mengalami kejadian traumatis sulit lupakan
+Aku sering stres karena harus membayar cicilan tiap bulan.,curhat,negatif,sering stres harus membayar cicilan tiap bulan
+Bagaimana cara menghadapi orang toxic tanpa stres?,minta_saran,netral,cara menghadapi orang toxic tanpa stres
+Aku merasa gaji yang aku dapatkan tidak cukup.,curhat,negatif,merasa gaji dapatkan cukup
+Aku cemas setiap hari karena takut dimarahi bos.,curhat,negatif,cemas setiap hari takut dimarahi bos
+Aku ingin memulai bisnis tapi takut gagal.,curhat,negatif,ingin memulai bisnis tapi takut gagal
+Aku pernah di-bully dan itu masih menyakitiku sampai sekarang.,curhat,negatif,pernah dibully masih menyakitiku sampai sekarang
+Aku ingin merasa lebih baik tapi tidak tahu caranya.,curhat,negatif,ingin merasa baik tapi tahu caranya
+Bagaimana cara mengatasi overthinking setiap malam?,minta_saran,netral,cara mengatasi overthinking setiap malam
+Aku tidak tahu apakah harus bertahan atau melepaskannya.,curhat,negatif,tahu apakah harus bertahan melepaskannya
+Aku ingin merasa lebih baik tapi tidak tahu caranya.,curhat,negatif,ingin merasa baik tapi tahu caranya
+Aku sering membandingkan diriku dengan orang lain.,curhat,negatif,sering membandingkan diriku orang lain
+Aku ingin lebih percaya diri tapi selalu ragu.,curhat,negatif,ingin percaya diri tapi selalu ragu
+Ceritakan sesuatu yang bisa membuatku semangat.,ngobrol,netral,ceritakan sesuatu membuatku semangat
+Aku ingin lebih percaya diri tapi selalu ragu.,curhat,negatif,ingin percaya diri tapi selalu ragu
+Aku merasa orang-orang tidak memahami luka batinku.,curhat,negatif,merasa orangorang memahami luka batinku
+Aku ingin lebih percaya diri tapi selalu ragu.,curhat,negatif,ingin percaya diri tapi selalu ragu
+Aku merasa sendirian meskipun punya banyak teman.,curhat,negatif,merasa sendirian meskipun punya banyak teman
+Aku cemas setiap hari karena takut dimarahi bos.,curhat,negatif,cemas setiap hari takut dimarahi bos
+Aku khawatir dengan masa depan finansialku.,curhat,negatif,khawatir masa depan finansialku
+Apa cara terbaik untuk menjaga kesehatan mental sehari-hari?,minta_saran,netral,cara terbaik menjaga kesehatan mental seharihari
+Aku ingin lebih percaya diri dalam hubungan sosial.,curhat,negatif,ingin percaya diri hubungan sosial
+Apa langkah pertama untuk membangun kepercayaan diri?,minta_saran,netral,langkah pertama membangun kepercayaan diri
+Aku merasa orang-orang tidak memahami luka batinku.,curhat,negatif,merasa orangorang memahami luka batinku
+Aku sering berpikir negatif tentang diriku sendiri.,curhat,negatif,sering berpikir negatif tentang diriku sendiri
+Apa cara terbaik untuk menjaga kesehatan mental sehari-hari?,minta_saran,netral,cara terbaik menjaga kesehatan mental seharihari
+Aku khawatir dengan masa depan finansialku.,curhat,negatif,khawatir masa depan finansialku
+Bagaimana menghadapi kegagalan tanpa kehilangan motivasi?,minta_saran,netral,menghadapi kegagalan tanpa kehilangan motivasi
+Aku sering berpikir negatif tentang diriku sendiri.,curhat,negatif,sering berpikir negatif tentang diriku sendiri
+Aku mengalami kejadian traumatis yang sulit aku lupakan.,curhat,negatif,mengalami kejadian traumatis sulit lupakan
+Aku sering merasa diremehkan oleh orang-orang di sekitarku.,curhat,negatif,sering merasa diremehkan orangorang sekitarku
+Aku kelelahan karena sering lembur tanpa bayaran tambahan.,curhat,negatif,kelelahan sering lembur tanpa bayaran tambahan
+Aku ingin merasa lebih baik tapi tidak tahu caranya.,curhat,negatif,ingin merasa baik tapi tahu caranya
+Aku ingin menabung tapi pengeluaranku selalu besar.,curhat,negatif,ingin menabung tapi pengeluaranku selalu besar
+Apa kabar? Aku ingin ngobrol santai.,ngobrol,netral,kabar ingin ngobrol santai
+Apa langkah pertama untuk membangun kepercayaan diri?,minta_saran,netral,langkah pertama membangun kepercayaan diri
+Aku pernah di-bully dan itu masih menyakitiku sampai sekarang.,curhat,negatif,pernah dibully masih menyakitiku sampai sekarang
+Aku sering membandingkan diriku dengan orang lain.,curhat,negatif,sering membandingkan diriku orang lain
+Aku ingin mengatasi ketakutan masa lalu tapi sulit sekali.,curhat,negatif,ingin mengatasi ketakutan masa lalu tapi sulit sekali
+Aku merasa stuck di pekerjaan yang tidak aku sukai.,curhat,negatif,merasa stuck pekerjaan sukai
+Aku sering merasa diremehkan oleh orang-orang di sekitarku.,curhat,negatif,sering merasa diremehkan orangorang sekitarku
+Aku merasa tertekan karena target kerja yang tinggi.,curhat,negatif,merasa tertekan target kerja tinggi
+Aku sering mengingat pengalaman buruk dan merasa sedih.,curhat,negatif,sering mengingat pengalaman buruk merasa sedih
+Aku khawatir dengan masa depan finansialku.,curhat,negatif,khawatir masa depan finansialku
+Aku sering membandingkan diriku dengan orang lain.,curhat,negatif,sering membandingkan diriku orang lain
+Aku merasa depresi dan tidak punya semangat hidup.,curhat,negatif,merasa depresi punya semangat hidup
+Aku sering stres karena harus membayar cicilan tiap bulan.,curhat,negatif,sering stres harus membayar cicilan tiap bulan
+Apa cara terbaik untuk menjaga kesehatan mental sehari-hari?,minta_saran,netral,cara terbaik menjaga kesehatan mental seharihari
+Aku takut kehilangan pekerjaan dan tidak bisa memenuhi kebutuhan hidup.,curhat,negatif,takut kehilangan pekerjaan memenuhi kebutuhan hidup
+Aku khawatir dengan masa depan finansialku.,curhat,negatif,khawatir masa depan finansialku
+Aku sulit tidur karena selalu overthinking.,curhat,negatif,sulit tidur selalu overthinking
+Aku cemas setiap hari karena takut dimarahi bos.,curhat,negatif,cemas setiap hari takut dimarahi bos
+Aku sering merasa diremehkan oleh orang-orang di sekitarku.,curhat,negatif,sering merasa diremehkan orangorang sekitarku
+Aku merasa sendirian meskipun punya banyak teman.,curhat,negatif,merasa sendirian meskipun punya banyak teman
+Aku cemas setiap hari karena takut dimarahi bos.,curhat,negatif,cemas setiap hari takut dimarahi bos
+Aku sering berpikir negatif tentang diriku sendiri.,curhat,negatif,sering berpikir negatif tentang diriku sendiri
+Aku sering merasa sendirian meskipun ada orang di sekitarku.,curhat,negatif,sering merasa sendirian meskipun ada orang sekitarku
+Aku sering berpikir negatif tentang diriku sendiri.,curhat,negatif,sering berpikir negatif tentang diriku sendiri
+Ceritakan sesuatu yang bisa membuatku semangat.,ngobrol,netral,ceritakan sesuatu membuatku semangat
+Aku sering membandingkan diriku dengan orang lain.,curhat,negatif,sering membandingkan diriku orang lain
+Aku merasa tertekan karena target kerja yang tinggi.,curhat,negatif,merasa tertekan target kerja tinggi
+Ceritakan sesuatu yang bisa membuatku semangat.,ngobrol,netral,ceritakan sesuatu membuatku semangat
+Aku ingin lebih percaya diri tapi selalu ragu.,curhat,negatif,ingin percaya diri tapi selalu ragu
+Bagaimana cara meningkatkan kebahagiaan dalam hidup?,ngobrol,netral,cara meningkatkan kebahagiaan hidup
+Aku kelelahan karena sering lembur tanpa bayaran tambahan.,curhat,negatif,kelelahan sering lembur tanpa bayaran tambahan
+Aku ingin memulai bisnis tapi takut gagal.,curhat,negatif,ingin memulai bisnis tapi takut gagal
+Aku sering membandingkan diriku dengan orang lain.,curhat,negatif,sering membandingkan diriku orang lain
+Aku merasa depresi dan tidak punya semangat hidup.,curhat,negatif,merasa depresi punya semangat hidup
+Aku merasa orang-orang tidak memahami luka batinku.,curhat,negatif,merasa orangorang memahami luka batinku
+Aku ingin merasa lebih baik tapi tidak tahu caranya.,curhat,negatif,ingin merasa baik tapi tahu caranya
+Aku mengalami kejadian traumatis yang sulit aku lupakan.,curhat,negatif,mengalami kejadian traumatis sulit lupakan
+Aku ingin menabung tapi pengeluaranku selalu besar.,curhat,negatif,ingin menabung tapi pengeluaranku selalu besar
+Aku ingin lebih percaya diri dalam hubungan sosial.,curhat,negatif,ingin percaya diri hubungan sosial
+Aku sering membandingkan diriku dengan orang lain.,curhat,negatif,sering membandingkan diriku orang lain
+Aku sering stres karena harus membayar cicilan tiap bulan.,curhat,negatif,sering stres harus membayar cicilan tiap bulan
+Aku khawatir dengan masa depan finansialku.,curhat,negatif,khawatir masa depan finansialku
+Aku merasa stuck di pekerjaan yang tidak aku sukai.,curhat,negatif,merasa stuck pekerjaan sukai
+Aku kecewa dengan teman yang tidak mendukungku.,curhat,negatif,kecewa teman mendukungku
+Aku merasa sendirian meskipun punya banyak teman.,curhat,negatif,merasa sendirian meskipun punya banyak teman
+Aku merasa tidak mampu mencapai apa yang aku impikan.,curhat,negatif,merasa mampu mencapai impikan
+Aku ingin lebih percaya diri tapi selalu ragu.,curhat,negatif,ingin percaya diri tapi selalu ragu
+Aku ingin lebih percaya diri dalam hubungan sosial.,curhat,negatif,ingin percaya diri hubungan sosial
+Aku khawatir dengan masa depan finansialku.,curhat,negatif,khawatir masa depan finansialku
+Aku sering stres karena harus membayar cicilan tiap bulan.,curhat,negatif,sering stres harus membayar cicilan tiap bulan
+Aku merasa orang-orang tidak memahami luka batinku.,curhat,negatif,merasa orangorang memahami luka batinku
+Bagaimana cara menghadapi orang toxic tanpa stres?,minta_saran,netral,cara menghadapi orang toxic tanpa stres
+Aku sering merasa sendirian meskipun ada orang di sekitarku.,curhat,negatif,sering merasa sendirian meskipun ada orang sekitarku
+Bagaimana cara menghadapi orang toxic tanpa stres?,minta_saran,netral,cara menghadapi orang toxic tanpa stres
+Aku khawatir dengan masa depan finansialku.,curhat,negatif,khawatir masa depan finansialku
+Bagaimana cara mengatasi overthinking setiap malam?,minta_saran,netral,cara mengatasi overthinking setiap malam
+Aku merasa stuck di pekerjaan yang tidak aku sukai.,curhat,negatif,merasa stuck pekerjaan sukai
+Apa yang bisa aku lakukan untuk mengurangi kecemasan?,ngobrol,netral,lakukan mengurangi kecemasan
+Aku sering berpikir negatif tentang diriku sendiri.,curhat,negatif,sering berpikir negatif tentang diriku sendiri
+Aku sering merasa diremehkan oleh orang-orang di sekitarku.,curhat,negatif,sering merasa diremehkan orangorang sekitarku
+Aku sering merasa sendirian meskipun ada orang di sekitarku.,curhat,negatif,sering merasa sendirian meskipun ada orang sekitarku
+Aku ingin lebih percaya diri tapi selalu ragu.,curhat,negatif,ingin percaya diri tapi selalu ragu
+Aku sering berpikir negatif tentang diriku sendiri.,curhat,negatif,sering berpikir negatif tentang diriku sendiri
+Aku merasa tidak cukup baik dalam segala hal.,curhat,negatif,merasa cukup baik segala hal
+Aku merasa tidak mampu mencapai apa yang aku impikan.,curhat,negatif,merasa mampu mencapai impikan
+Bagaimana cara menghadapi orang toxic tanpa stres?,minta_saran,netral,cara menghadapi orang toxic tanpa stres
+Aku merasa depresi dan tidak punya semangat hidup.,curhat,negatif,merasa depresi punya semangat hidup
+Aku sering mengingat pengalaman buruk dan merasa sedih.,curhat,negatif,sering mengingat pengalaman buruk merasa sedih
+Aku merasa tidak mampu mencapai apa yang aku impikan.,curhat,negatif,merasa mampu mencapai impikan
+Apa kabar? Aku ingin ngobrol santai.,ngobrol,netral,kabar ingin ngobrol santai
+Aku tidak tahu apakah harus bertahan atau melepaskannya.,curhat,negatif,tahu apakah harus bertahan melepaskannya
+Aku merasa gaji yang aku dapatkan tidak cukup.,curhat,negatif,merasa gaji dapatkan cukup
+Aku ingin merasa lebih baik tapi tidak tahu caranya.,curhat,negatif,ingin merasa baik tapi tahu caranya
+Aku khawatir dengan masa depan finansialku.,curhat,negatif,khawatir masa depan finansialku
+Aku sering stres karena harus membayar cicilan tiap bulan.,curhat,negatif,sering stres harus membayar cicilan tiap bulan
+Aku mengalami kejadian traumatis yang sulit aku lupakan.,curhat,negatif,mengalami kejadian traumatis sulit lupakan
+Aku ingin lebih percaya diri dalam hubungan sosial.,curhat,negatif,ingin percaya diri hubungan sosial
+Aku cemas setiap hari karena takut dimarahi bos.,curhat,negatif,cemas setiap hari takut dimarahi bos
+Aku kecewa dengan teman yang tidak mendukungku.,curhat,negatif,kecewa teman mendukungku
+Aku merasa depresi dan tidak punya semangat hidup.,curhat,negatif,merasa depresi punya semangat hidup
+Aku merasa depresi dan tidak punya semangat hidup.,curhat,negatif,merasa depresi punya semangat hidup
+Aku sering berpikir negatif tentang diriku sendiri.,curhat,negatif,sering berpikir negatif tentang diriku sendiri
+Aku tidak tahu apakah harus bertahan atau melepaskannya.,curhat,negatif,tahu apakah harus bertahan melepaskannya
+Aku merasa tidak mampu mencapai apa yang aku impikan.,curhat,negatif,merasa mampu mencapai impikan
+Aku merasa stuck di pekerjaan yang tidak aku sukai.,curhat,negatif,merasa stuck pekerjaan sukai
+Ceritakan sesuatu yang bisa membuatku semangat.,ngobrol,netral,ceritakan sesuatu membuatku semangat
+Aku merasa depresi dan tidak punya semangat hidup.,curhat,negatif,merasa depresi punya semangat hidup
+Aku sering stres karena harus membayar cicilan tiap bulan.,curhat,negatif,sering stres harus membayar cicilan tiap bulan
+Aku sering merasa cemas tanpa alasan yang jelas.,curhat,negatif,sering merasa cemas tanpa alasan jelas
+Aku kecewa dengan teman yang tidak mendukungku.,curhat,negatif,kecewa teman mendukungku
+Aku pernah di-bully dan itu masih menyakitiku sampai sekarang.,curhat,negatif,pernah dibully masih menyakitiku sampai sekarang
+Aku kecewa dengan teman yang tidak mendukungku.,curhat,negatif,kecewa teman mendukungku
+Aku ingin lebih percaya diri dalam hubungan sosial.,curhat,negatif,ingin percaya diri hubungan sosial
+Aku ingin merasa lebih baik tapi tidak tahu caranya.,curhat,negatif,ingin merasa baik tapi tahu caranya
+Bagaimana cara menghadapi orang toxic tanpa stres?,minta_saran,netral,cara menghadapi orang toxic tanpa stres
+Aku ingin lebih percaya diri tapi selalu ragu.,curhat,negatif,ingin percaya diri tapi selalu ragu
+Aku kelelahan karena sering lembur tanpa bayaran tambahan.,curhat,negatif,kelelahan sering lembur tanpa bayaran tambahan
+Aku ingin menabung tapi pengeluaranku selalu besar.,curhat,negatif,ingin menabung tapi pengeluaranku selalu besar
+Bagaimana cara menghadapi orang toxic tanpa stres?,minta_saran,netral,cara menghadapi orang toxic tanpa stres
+Aku mengalami kejadian traumatis yang sulit aku lupakan.,curhat,negatif,mengalami kejadian traumatis sulit lupakan
+Aku kecewa dengan teman yang tidak mendukungku.,curhat,negatif,kecewa teman mendukungku
+Aku ingin lebih percaya diri dalam hubungan sosial.,curhat,negatif,ingin percaya diri hubungan sosial
+Aku cemas setiap hari karena takut dimarahi bos.,curhat,negatif,cemas setiap hari takut dimarahi bos
+Bagaimana menghadapi kegagalan tanpa kehilangan motivasi?,minta_saran,netral,menghadapi kegagalan tanpa kehilangan motivasi
+Aku merasa tidak cukup baik dalam segala hal.,curhat,negatif,merasa cukup baik segala hal
+Aku ingin merasa lebih baik tapi tidak tahu caranya.,curhat,negatif,ingin merasa baik tapi tahu caranya
+Aku ingin lebih percaya diri dalam hubungan sosial.,curhat,negatif,ingin percaya diri hubungan sosial
+Aku mengalami kejadian traumatis yang sulit aku lupakan.,curhat,negatif,mengalami kejadian traumatis sulit lupakan
+Apa kabar? Aku ingin ngobrol santai.,ngobrol,netral,kabar ingin ngobrol santai
+Aku mengalami kejadian traumatis yang sulit aku lupakan.,curhat,negatif,mengalami kejadian traumatis sulit lupakan
+Apa cara terbaik untuk menjaga kesehatan mental sehari-hari?,minta_saran,netral,cara terbaik menjaga kesehatan mental seharihari
+Aku ingin mengatasi ketakutan masa lalu tapi sulit sekali.,curhat,negatif,ingin mengatasi ketakutan masa lalu tapi sulit sekali
+Apa cara terbaik untuk menjaga kesehatan mental sehari-hari?,minta_saran,netral,cara terbaik menjaga kesehatan mental seharihari
+Apa yang bisa aku lakukan untuk mengurangi kecemasan?,ngobrol,netral,lakukan mengurangi kecemasan
+Aku kelelahan karena sering lembur tanpa bayaran tambahan.,curhat,negatif,kelelahan sering lembur tanpa bayaran tambahan
+Aku sering merasa diremehkan oleh orang-orang di sekitarku.,curhat,negatif,sering merasa diremehkan orangorang sekitarku
+Aku tidak tahu apakah harus bertahan atau melepaskannya.,curhat,negatif,tahu apakah harus bertahan melepaskannya
+Aku merasa sendirian meskipun punya banyak teman.,curhat,negatif,merasa sendirian meskipun punya banyak teman
+Aku merasa gaji yang aku dapatkan tidak cukup.,curhat,negatif,merasa gaji dapatkan cukup
+Aku sering membandingkan diriku dengan orang lain.,curhat,negatif,sering membandingkan diriku orang lain
+Ceritakan sesuatu yang bisa membuatku semangat.,ngobrol,netral,ceritakan sesuatu membuatku semangat
+Aku merasa stuck di pekerjaan yang tidak aku sukai.,curhat,negatif,merasa stuck pekerjaan sukai
+Bagaimana cara menghadapi orang toxic tanpa stres?,minta_saran,netral,cara menghadapi orang toxic tanpa stres
+Aku merasa tidak mampu mencapai apa yang aku impikan.,curhat,negatif,merasa mampu mencapai impikan
+Bagaimana cara menghadapi orang toxic tanpa stres?,minta_saran,netral,cara menghadapi orang toxic tanpa stres
+Aku pernah di-bully dan itu masih menyakitiku sampai sekarang.,curhat,negatif,pernah dibully masih menyakitiku sampai sekarang
+Apa langkah pertama untuk membangun kepercayaan diri?,minta_saran,netral,langkah pertama membangun kepercayaan diri
+Aku merasa orang-orang tidak memahami luka batinku.,curhat,negatif,merasa orangorang memahami luka batinku
+Aku sering mengingat pengalaman buruk dan merasa sedih.,curhat,negatif,sering mengingat pengalaman buruk merasa sedih
+Apa langkah pertama untuk membangun kepercayaan diri?,minta_saran,netral,langkah pertama membangun kepercayaan diri
+Aku ingin merasa lebih baik tapi tidak tahu caranya.,curhat,negatif,ingin merasa baik tapi tahu caranya
+Apa cara terbaik untuk menjaga kesehatan mental sehari-hari?,minta_saran,netral,cara terbaik menjaga kesehatan mental seharihari
+Aku kelelahan karena sering lembur tanpa bayaran tambahan.,curhat,negatif,kelelahan sering lembur tanpa bayaran tambahan
+Apa yang bisa aku lakukan untuk mengurangi kecemasan?,ngobrol,netral,lakukan mengurangi kecemasan
+Aku ingin lebih percaya diri dalam hubungan sosial.,curhat,negatif,ingin percaya diri hubungan sosial
+Bagaimana cara meningkatkan kebahagiaan dalam hidup?,ngobrol,netral,cara meningkatkan kebahagiaan hidup
+Ceritakan sesuatu yang bisa membuatku semangat.,ngobrol,netral,ceritakan sesuatu membuatku semangat
+Aku sering mengingat pengalaman buruk dan merasa sedih.,curhat,negatif,sering mengingat pengalaman buruk merasa sedih
+Aku sering mengingat pengalaman buruk dan merasa sedih.,curhat,negatif,sering mengingat pengalaman buruk merasa sedih
+Aku merasa depresi dan tidak punya semangat hidup.,curhat,negatif,merasa depresi punya semangat hidup
+Aku ingin merasa lebih baik tapi tidak tahu caranya.,curhat,negatif,ingin merasa baik tapi tahu caranya
+Aku cemas setiap hari karena takut dimarahi bos.,curhat,negatif,cemas setiap hari takut dimarahi bos
+Aku sering merasa cemas tanpa alasan yang jelas.,curhat,negatif,sering merasa cemas tanpa alasan jelas
+Aku cemas setiap hari karena takut dimarahi bos.,curhat,negatif,cemas setiap hari takut dimarahi bos
+Aku ingin lebih percaya diri tapi selalu ragu.,curhat,negatif,ingin percaya diri tapi selalu ragu
+Ceritakan sesuatu yang bisa membuatku semangat.,ngobrol,netral,ceritakan sesuatu membuatku semangat
+Aku takut kehilangan pekerjaan dan tidak bisa memenuhi kebutuhan hidup.,curhat,negatif,takut kehilangan pekerjaan memenuhi kebutuhan hidup
+Aku ingin merasa lebih baik tapi tidak tahu caranya.,curhat,negatif,ingin merasa baik tapi tahu caranya
+Bagaimana cara meningkatkan kebahagiaan dalam hidup?,ngobrol,netral,cara meningkatkan kebahagiaan hidup
+Aku merasa gaji yang aku dapatkan tidak cukup.,curhat,negatif,merasa gaji dapatkan cukup
+Bagaimana cara menghadapi orang toxic tanpa stres?,minta_saran,netral,cara menghadapi orang toxic tanpa stres
+Aku kecewa dengan teman yang tidak mendukungku.,curhat,negatif,kecewa teman mendukungku
+Aku sering membandingkan diriku dengan orang lain.,curhat,negatif,sering membandingkan diriku orang lain
+Bagaimana cara mengatasi overthinking setiap malam?,minta_saran,netral,cara mengatasi overthinking setiap malam
+Aku mengalami kejadian traumatis yang sulit aku lupakan.,curhat,negatif,mengalami kejadian traumatis sulit lupakan
+Apa langkah pertama untuk membangun kepercayaan diri?,minta_saran,netral,langkah pertama membangun kepercayaan diri
+Apa langkah pertama untuk membangun kepercayaan diri?,minta_saran,netral,langkah pertama membangun kepercayaan diri
+Apa yang bisa aku lakukan untuk mengurangi kecemasan?,ngobrol,netral,lakukan mengurangi kecemasan
+Aku sering merasa sendirian meskipun ada orang di sekitarku.,curhat,negatif,sering merasa sendirian meskipun ada orang sekitarku
+Aku kecewa dengan teman yang tidak mendukungku.,curhat,negatif,kecewa teman mendukungku
+Aku merasa sendirian meskipun punya banyak teman.,curhat,negatif,merasa sendirian meskipun punya banyak teman
+Bagaimana menghadapi kegagalan tanpa kehilangan motivasi?,minta_saran,netral,menghadapi kegagalan tanpa kehilangan motivasi
+Aku pernah di-bully dan itu masih menyakitiku sampai sekarang.,curhat,negatif,pernah dibully masih menyakitiku sampai sekarang
+Aku ingin memulai bisnis tapi takut gagal.,curhat,negatif,ingin memulai bisnis tapi takut gagal
+Aku ingin menabung tapi pengeluaranku selalu besar.,curhat,negatif,ingin menabung tapi pengeluaranku selalu besar
+Aku merasa stuck di pekerjaan yang tidak aku sukai.,curhat,negatif,merasa stuck pekerjaan sukai
+Aku sulit tidur karena selalu overthinking.,curhat,negatif,sulit tidur selalu overthinking
+Ceritakan sesuatu yang bisa membuatku semangat.,ngobrol,netral,ceritakan sesuatu membuatku semangat
+Bagaimana cara menghadapi orang toxic tanpa stres?,minta_saran,netral,cara menghadapi orang toxic tanpa stres
+Aku sering mengingat pengalaman buruk dan merasa sedih.,curhat,negatif,sering mengingat pengalaman buruk merasa sedih
+Bagaimana cara menghadapi orang toxic tanpa stres?,minta_saran,netral,cara menghadapi orang toxic tanpa stres
+Aku sering merasa sendirian meskipun ada orang di sekitarku.,curhat,negatif,sering merasa sendirian meskipun ada orang sekitarku
+Aku ingin memulai bisnis tapi takut gagal.,curhat,negatif,ingin memulai bisnis tapi takut gagal
+Aku merasa orang-orang tidak memahami luka batinku.,curhat,negatif,merasa orangorang memahami luka batinku
+Aku ingin lebih percaya diri dalam hubungan sosial.,curhat,negatif,ingin percaya diri hubungan sosial
+Aku merasa gaji yang aku dapatkan tidak cukup.,curhat,negatif,merasa gaji dapatkan cukup
+Aku ingin lebih percaya diri tapi selalu ragu.,curhat,negatif,ingin percaya diri tapi selalu ragu
+Aku merasa tidak cukup baik dalam segala hal.,curhat,negatif,merasa cukup baik segala hal
+Aku sering merasa cemas tanpa alasan yang jelas.,curhat,negatif,sering merasa cemas tanpa alasan jelas
+Apa langkah pertama untuk membangun kepercayaan diri?,minta_saran,netral,langkah pertama membangun kepercayaan diri
+Aku merasa orang-orang tidak memahami luka batinku.,curhat,negatif,merasa orangorang memahami luka batinku
+Aku ingin lebih percaya diri tapi selalu ragu.,curhat,negatif,ingin percaya diri tapi selalu ragu
+"Halo, bagaimana harimu?",ngobrol,netral,halo harimu
+Apa cara terbaik untuk menjaga kesehatan mental sehari-hari?,minta_saran,netral,cara terbaik menjaga kesehatan mental seharihari
+Apa langkah pertama untuk membangun kepercayaan diri?,minta_saran,netral,langkah pertama membangun kepercayaan diri
+Bagaimana cara mengatasi overthinking setiap malam?,minta_saran,netral,cara mengatasi overthinking setiap malam
+Aku kelelahan karena sering lembur tanpa bayaran tambahan.,curhat,negatif,kelelahan sering lembur tanpa bayaran tambahan
+Aku takut kehilangan pekerjaan dan tidak bisa memenuhi kebutuhan hidup.,curhat,negatif,takut kehilangan pekerjaan memenuhi kebutuhan hidup
+"Halo, bagaimana harimu?",ngobrol,netral,halo harimu
+Aku takut kehilangan pekerjaan dan tidak bisa memenuhi kebutuhan hidup.,curhat,negatif,takut kehilangan pekerjaan memenuhi kebutuhan hidup
+Aku sering mengingat pengalaman buruk dan merasa sedih.,curhat,negatif,sering mengingat pengalaman buruk merasa sedih
+Aku ingin mengatasi ketakutan masa lalu tapi sulit sekali.,curhat,negatif,ingin mengatasi ketakutan masa lalu tapi sulit sekali
+Aku khawatir dengan masa depan finansialku.,curhat,negatif,khawatir masa depan finansialku
+Aku takut kehilangan pekerjaan dan tidak bisa memenuhi kebutuhan hidup.,curhat,negatif,takut kehilangan pekerjaan memenuhi kebutuhan hidup
+Aku merasa tidak mampu mencapai apa yang aku impikan.,curhat,negatif,merasa mampu mencapai impikan
+"Halo, bagaimana harimu?",ngobrol,netral,halo harimu
+Aku ingin memulai bisnis tapi takut gagal.,curhat,negatif,ingin memulai bisnis tapi takut gagal
+Aku merasa stuck di pekerjaan yang tidak aku sukai.,curhat,negatif,merasa stuck pekerjaan sukai
+"Halo, bagaimana harimu?",ngobrol,netral,halo harimu
+Ceritakan sesuatu yang bisa membuatku semangat.,ngobrol,netral,ceritakan sesuatu membuatku semangat
+Bagaimana menghadapi kegagalan tanpa kehilangan motivasi?,minta_saran,netral,menghadapi kegagalan tanpa kehilangan motivasi
+Ceritakan sesuatu yang bisa membuatku semangat.,ngobrol,netral,ceritakan sesuatu membuatku semangat
+Bagaimana cara mengatasi overthinking setiap malam?,minta_saran,netral,cara mengatasi overthinking setiap malam
+Aku merasa gaji yang aku dapatkan tidak cukup.,curhat,negatif,merasa gaji dapatkan cukup
+Aku mengalami kejadian traumatis yang sulit aku lupakan.,curhat,negatif,mengalami kejadian traumatis sulit lupakan
+Apa kabar? Aku ingin ngobrol santai.,ngobrol,netral,kabar ingin ngobrol santai
+Aku ingin mengatasi ketakutan masa lalu tapi sulit sekali.,curhat,negatif,ingin mengatasi ketakutan masa lalu tapi sulit sekali
+"Halo, bagaimana harimu?",ngobrol,netral,halo harimu
+Aku merasa tidak cukup baik dalam segala hal.,curhat,negatif,merasa cukup baik segala hal
+Aku mengalami kejadian traumatis yang sulit aku lupakan.,curhat,negatif,mengalami kejadian traumatis sulit lupakan
+Aku merasa tidak mampu mencapai apa yang aku impikan.,curhat,negatif,merasa mampu mencapai impikan
+Aku cemas setiap hari karena takut dimarahi bos.,curhat,negatif,cemas setiap hari takut dimarahi bos
+Aku cemas setiap hari karena takut dimarahi bos.,curhat,negatif,cemas setiap hari takut dimarahi bos
+Aku khawatir dengan masa depan finansialku.,curhat,negatif,khawatir masa depan finansialku
+Aku sulit tidur karena selalu overthinking.,curhat,negatif,sulit tidur selalu overthinking
+Aku takut kehilangan pekerjaan dan tidak bisa memenuhi kebutuhan hidup.,curhat,negatif,takut kehilangan pekerjaan memenuhi kebutuhan hidup
+Aku sering membandingkan diriku dengan orang lain.,curhat,negatif,sering membandingkan diriku orang lain
+Apa langkah pertama untuk membangun kepercayaan diri?,minta_saran,netral,langkah pertama membangun kepercayaan diri
+Apa langkah pertama untuk membangun kepercayaan diri?,minta_saran,netral,langkah pertama membangun kepercayaan diri
+Bagaimana menghadapi kegagalan tanpa kehilangan motivasi?,minta_saran,netral,menghadapi kegagalan tanpa kehilangan motivasi
+Aku merasa depresi dan tidak punya semangat hidup.,curhat,negatif,merasa depresi punya semangat hidup
+Apa cara terbaik untuk menjaga kesehatan mental sehari-hari?,minta_saran,netral,cara terbaik menjaga kesehatan mental seharihari
+Aku merasa orang-orang tidak memahami luka batinku.,curhat,negatif,merasa orangorang memahami luka batinku
+Aku merasa tertekan karena target kerja yang tinggi.,curhat,negatif,merasa tertekan target kerja tinggi
+Ceritakan sesuatu yang bisa membuatku semangat.,ngobrol,netral,ceritakan sesuatu membuatku semangat
+Aku merasa stuck di pekerjaan yang tidak aku sukai.,curhat,negatif,merasa stuck pekerjaan sukai
+Aku kecewa dengan teman yang tidak mendukungku.,curhat,negatif,kecewa teman mendukungku
+Aku ingin lebih percaya diri tapi selalu ragu.,curhat,negatif,ingin percaya diri tapi selalu ragu
+"Halo, bagaimana harimu?",ngobrol,netral,halo harimu
+Aku ingin lebih percaya diri tapi selalu ragu.,curhat,negatif,ingin percaya diri tapi selalu ragu
+Aku sulit tidur karena selalu overthinking.,curhat,negatif,sulit tidur selalu overthinking
+Aku ingin merasa lebih baik tapi tidak tahu caranya.,curhat,negatif,ingin merasa baik tapi tahu caranya
+Aku mengalami kejadian traumatis yang sulit aku lupakan.,curhat,negatif,mengalami kejadian traumatis sulit lupakan
+Aku kecewa dengan teman yang tidak mendukungku.,curhat,negatif,kecewa teman mendukungku
+Aku ingin lebih percaya diri tapi selalu ragu.,curhat,negatif,ingin percaya diri tapi selalu ragu
+Aku kecewa dengan teman yang tidak mendukungku.,curhat,negatif,kecewa teman mendukungku
+Aku merasa tertekan karena target kerja yang tinggi.,curhat,negatif,merasa tertekan target kerja tinggi
+Aku merasa depresi dan tidak punya semangat hidup.,curhat,negatif,merasa depresi punya semangat hidup
+Aku merasa tidak mampu mencapai apa yang aku impikan.,curhat,negatif,merasa mampu mencapai impikan
+Aku ingin lebih percaya diri tapi selalu ragu.,curhat,negatif,ingin percaya diri tapi selalu ragu
+Aku ingin mengatasi ketakutan masa lalu tapi sulit sekali.,curhat,negatif,ingin mengatasi ketakutan masa lalu tapi sulit sekali
+Aku sering mengingat pengalaman buruk dan merasa sedih.,curhat,negatif,sering mengingat pengalaman buruk merasa sedih
+Aku merasa tidak mampu mencapai apa yang aku impikan.,curhat,negatif,merasa mampu mencapai impikan
+Bagaimana cara meningkatkan kebahagiaan dalam hidup?,ngobrol,netral,cara meningkatkan kebahagiaan hidup
+Aku ingin memulai bisnis tapi takut gagal.,curhat,negatif,ingin memulai bisnis tapi takut gagal
+Aku ingin lebih percaya diri tapi selalu ragu.,curhat,negatif,ingin percaya diri tapi selalu ragu
+Aku ingin lebih percaya diri dalam hubungan sosial.,curhat,negatif,ingin percaya diri hubungan sosial
+Aku mengalami kejadian traumatis yang sulit aku lupakan.,curhat,negatif,mengalami kejadian traumatis sulit lupakan
+Aku sering stres karena harus membayar cicilan tiap bulan.,curhat,negatif,sering stres harus membayar cicilan tiap bulan
+Aku merasa tidak cukup baik dalam segala hal.,curhat,negatif,merasa cukup baik segala hal
+Aku merasa sendirian meskipun punya banyak teman.,curhat,negatif,merasa sendirian meskipun punya banyak teman
+Apa yang bisa aku lakukan untuk mengurangi kecemasan?,ngobrol,netral,lakukan mengurangi kecemasan
+Aku kecewa dengan teman yang tidak mendukungku.,curhat,negatif,kecewa teman mendukungku
+Aku merasa sendirian meskipun punya banyak teman.,curhat,negatif,merasa sendirian meskipun punya banyak teman
+Apa langkah pertama untuk membangun kepercayaan diri?,minta_saran,netral,langkah pertama membangun kepercayaan diri
+Bagaimana cara meningkatkan kebahagiaan dalam hidup?,ngobrol,netral,cara meningkatkan kebahagiaan hidup
+Aku mengalami kejadian traumatis yang sulit aku lupakan.,curhat,negatif,mengalami kejadian traumatis sulit lupakan
+Aku pernah di-bully dan itu masih menyakitiku sampai sekarang.,curhat,negatif,pernah dibully masih menyakitiku sampai sekarang
+Aku ingin mengatasi ketakutan masa lalu tapi sulit sekali.,curhat,negatif,ingin mengatasi ketakutan masa lalu tapi sulit sekali
+Aku khawatir dengan masa depan finansialku.,curhat,negatif,khawatir masa depan finansialku
+Aku kelelahan karena sering lembur tanpa bayaran tambahan.,curhat,negatif,kelelahan sering lembur tanpa bayaran tambahan
+Aku pernah di-bully dan itu masih menyakitiku sampai sekarang.,curhat,negatif,pernah dibully masih menyakitiku sampai sekarang
+Aku ingin menabung tapi pengeluaranku selalu besar.,curhat,negatif,ingin menabung tapi pengeluaranku selalu besar
+Aku takut kehilangan pekerjaan dan tidak bisa memenuhi kebutuhan hidup.,curhat,negatif,takut kehilangan pekerjaan memenuhi kebutuhan hidup
+Aku merasa depresi dan tidak punya semangat hidup.,curhat,negatif,merasa depresi punya semangat hidup
+Aku takut kehilangan pekerjaan dan tidak bisa memenuhi kebutuhan hidup.,curhat,negatif,takut kehilangan pekerjaan memenuhi kebutuhan hidup
+Aku ingin lebih percaya diri tapi selalu ragu.,curhat,negatif,ingin percaya diri tapi selalu ragu
+Aku sering berpikir negatif tentang diriku sendiri.,curhat,negatif,sering berpikir negatif tentang diriku sendiri
+Aku merasa gaji yang aku dapatkan tidak cukup.,curhat,negatif,merasa gaji dapatkan cukup
+"Halo, bagaimana harimu?",ngobrol,netral,halo harimu
+Aku merasa tidak cukup baik dalam segala hal.,curhat,negatif,merasa cukup baik segala hal
+Apa yang bisa aku lakukan untuk mengurangi kecemasan?,ngobrol,netral,lakukan mengurangi kecemasan
+Aku cemas setiap hari karena takut dimarahi bos.,curhat,negatif,cemas setiap hari takut dimarahi bos
+Aku kecewa dengan teman yang tidak mendukungku.,curhat,negatif,kecewa teman mendukungku
+Aku sering merasa sendirian meskipun ada orang di sekitarku.,curhat,negatif,sering merasa sendirian meskipun ada orang sekitarku
+"Halo, bagaimana harimu?",ngobrol,netral,halo harimu
+Aku ingin lebih percaya diri tapi selalu ragu.,curhat,negatif,ingin percaya diri tapi selalu ragu
+Aku sering mengingat pengalaman buruk dan merasa sedih.,curhat,negatif,sering mengingat pengalaman buruk merasa sedih
+Aku merasa tidak mampu mencapai apa yang aku impikan.,curhat,negatif,merasa mampu mencapai impikan
+Ceritakan sesuatu yang bisa membuatku semangat.,ngobrol,netral,ceritakan sesuatu membuatku semangat
+Aku merasa stuck di pekerjaan yang tidak aku sukai.,curhat,negatif,merasa stuck pekerjaan sukai
+Aku merasa tidak cukup baik dalam segala hal.,curhat,negatif,merasa cukup baik segala hal
+Bagaimana cara menghadapi orang toxic tanpa stres?,minta_saran,netral,cara menghadapi orang toxic tanpa stres
+Aku cemas setiap hari karena takut dimarahi bos.,curhat,negatif,cemas setiap hari takut dimarahi bos
+Aku sering merasa diremehkan oleh orang-orang di sekitarku.,curhat,negatif,sering merasa diremehkan orangorang sekitarku
+Aku khawatir dengan masa depan finansialku.,curhat,negatif,khawatir masa depan finansialku
+Bagaimana cara meningkatkan kebahagiaan dalam hidup?,ngobrol,netral,cara meningkatkan kebahagiaan hidup
+Aku ingin lebih percaya diri tapi selalu ragu.,curhat,negatif,ingin percaya diri tapi selalu ragu
+Aku merasa orang-orang tidak memahami luka batinku.,curhat,negatif,merasa orangorang memahami luka batinku
+Aku khawatir dengan masa depan finansialku.,curhat,negatif,khawatir masa depan finansialku
+Aku ingin menabung tapi pengeluaranku selalu besar.,curhat,negatif,ingin menabung tapi pengeluaranku selalu besar
+Aku tidak tahu apakah harus bertahan atau melepaskannya.,curhat,negatif,tahu apakah harus bertahan melepaskannya
+Aku ingin menabung tapi pengeluaranku selalu besar.,curhat,negatif,ingin menabung tapi pengeluaranku selalu besar
+Apa yang bisa aku lakukan untuk mengurangi kecemasan?,ngobrol,netral,lakukan mengurangi kecemasan
+Aku merasa orang-orang tidak memahami luka batinku.,curhat,negatif,merasa orangorang memahami luka batinku
+Aku mengalami kejadian traumatis yang sulit aku lupakan.,curhat,negatif,mengalami kejadian traumatis sulit lupakan
+"Halo, bagaimana harimu?",ngobrol,netral,halo harimu
+Bagaimana cara meningkatkan kebahagiaan dalam hidup?,ngobrol,netral,cara meningkatkan kebahagiaan hidup
+Aku merasa tertekan karena target kerja yang tinggi.,curhat,negatif,merasa tertekan target kerja tinggi
+Aku mengalami kejadian traumatis yang sulit aku lupakan.,curhat,negatif,mengalami kejadian traumatis sulit lupakan
+Aku merasa stuck di pekerjaan yang tidak aku sukai.,curhat,negatif,merasa stuck pekerjaan sukai
+Aku merasa orang-orang tidak memahami luka batinku.,curhat,negatif,merasa orangorang memahami luka batinku
+Aku ingin memulai bisnis tapi takut gagal.,curhat,negatif,ingin memulai bisnis tapi takut gagal
+Aku mengalami kejadian traumatis yang sulit aku lupakan.,curhat,negatif,mengalami kejadian traumatis sulit lupakan
+Aku pernah di-bully dan itu masih menyakitiku sampai sekarang.,curhat,negatif,pernah dibully masih menyakitiku sampai sekarang
+Aku sering mengingat pengalaman buruk dan merasa sedih.,curhat,negatif,sering mengingat pengalaman buruk merasa sedih
+Aku merasa tertekan karena target kerja yang tinggi.,curhat,negatif,merasa tertekan target kerja tinggi
+Aku sering merasa sendirian meskipun ada orang di sekitarku.,curhat,negatif,sering merasa sendirian meskipun ada orang sekitarku
+Bagaimana cara meningkatkan kebahagiaan dalam hidup?,ngobrol,netral,cara meningkatkan kebahagiaan hidup
+Aku merasa depresi dan tidak punya semangat hidup.,curhat,negatif,merasa depresi punya semangat hidup
+Apa kabar? Aku ingin ngobrol santai.,ngobrol,netral,kabar ingin ngobrol santai
+"Halo, bagaimana harimu?",ngobrol,netral,halo harimu
+Aku merasa tertekan karena target kerja yang tinggi.,curhat,negatif,merasa tertekan target kerja tinggi
+Aku merasa gaji yang aku dapatkan tidak cukup.,curhat,negatif,merasa gaji dapatkan cukup
+Aku sering merasa cemas tanpa alasan yang jelas.,curhat,negatif,sering merasa cemas tanpa alasan jelas
+Aku ingin menabung tapi pengeluaranku selalu besar.,curhat,negatif,ingin menabung tapi pengeluaranku selalu besar
+Bagaimana cara meningkatkan kebahagiaan dalam hidup?,ngobrol,netral,cara meningkatkan kebahagiaan hidup
+Aku sering berpikir negatif tentang diriku sendiri.,curhat,negatif,sering berpikir negatif tentang diriku sendiri
+Aku sering merasa cemas tanpa alasan yang jelas.,curhat,negatif,sering merasa cemas tanpa alasan jelas
+Aku sering membandingkan diriku dengan orang lain.,curhat,negatif,sering membandingkan diriku orang lain
+Aku sering berpikir negatif tentang diriku sendiri.,curhat,negatif,sering berpikir negatif tentang diriku sendiri
+Apa langkah pertama untuk membangun kepercayaan diri?,minta_saran,netral,langkah pertama membangun kepercayaan diri
+Aku khawatir dengan masa depan finansialku.,curhat,negatif,khawatir masa depan finansialku
+Ceritakan sesuatu yang bisa membuatku semangat.,ngobrol,netral,ceritakan sesuatu membuatku semangat
+Apa langkah pertama untuk membangun kepercayaan diri?,minta_saran,netral,langkah pertama membangun kepercayaan diri
+Aku merasa tidak mampu mencapai apa yang aku impikan.,curhat,negatif,merasa mampu mencapai impikan
+Aku sering berpikir negatif tentang diriku sendiri.,curhat,negatif,sering berpikir negatif tentang diriku sendiri
+Aku merasa sendirian meskipun punya banyak teman.,curhat,negatif,merasa sendirian meskipun punya banyak teman
+Aku ingin mengatasi ketakutan masa lalu tapi sulit sekali.,curhat,negatif,ingin mengatasi ketakutan masa lalu tapi sulit sekali
+Aku tidak tahu apakah harus bertahan atau melepaskannya.,curhat,negatif,tahu apakah harus bertahan melepaskannya
+Bagaimana menghadapi kegagalan tanpa kehilangan motivasi?,minta_saran,netral,menghadapi kegagalan tanpa kehilangan motivasi
+Aku sering merasa cemas tanpa alasan yang jelas.,curhat,negatif,sering merasa cemas tanpa alasan jelas
+Aku merasa tertekan karena target kerja yang tinggi.,curhat,negatif,merasa tertekan target kerja tinggi
+Aku kelelahan karena sering lembur tanpa bayaran tambahan.,curhat,negatif,kelelahan sering lembur tanpa bayaran tambahan
+Ceritakan sesuatu yang bisa membuatku semangat.,ngobrol,netral,ceritakan sesuatu membuatku semangat
+Aku kecewa dengan teman yang tidak mendukungku.,curhat,negatif,kecewa teman mendukungku
+Apa kabar? Aku ingin ngobrol santai.,ngobrol,netral,kabar ingin ngobrol santai
+Aku sering merasa sendirian meskipun ada orang di sekitarku.,curhat,negatif,sering merasa sendirian meskipun ada orang sekitarku
+Bagaimana cara meningkatkan kebahagiaan dalam hidup?,ngobrol,netral,cara meningkatkan kebahagiaan hidup
+Aku khawatir dengan masa depan finansialku.,curhat,negatif,khawatir masa depan finansialku
+Aku sulit tidur karena selalu overthinking.,curhat,negatif,sulit tidur selalu overthinking
+Aku cemas setiap hari karena takut dimarahi bos.,curhat,negatif,cemas setiap hari takut dimarahi bos
+Apa cara terbaik untuk menjaga kesehatan mental sehari-hari?,minta_saran,netral,cara terbaik menjaga kesehatan mental seharihari
+Bagaimana cara mengatasi overthinking setiap malam?,minta_saran,netral,cara mengatasi overthinking setiap malam
+Aku merasa depresi dan tidak punya semangat hidup.,curhat,negatif,merasa depresi punya semangat hidup
+Bagaimana cara mengatasi overthinking setiap malam?,minta_saran,netral,cara mengatasi overthinking setiap malam
+Bagaimana menghadapi kegagalan tanpa kehilangan motivasi?,minta_saran,netral,menghadapi kegagalan tanpa kehilangan motivasi
+Aku tidak tahu apakah harus bertahan atau melepaskannya.,curhat,negatif,tahu apakah harus bertahan melepaskannya
+Aku merasa tertekan karena target kerja yang tinggi.,curhat,negatif,merasa tertekan target kerja tinggi
+Bagaimana cara menghadapi orang toxic tanpa stres?,minta_saran,netral,cara menghadapi orang toxic tanpa stres
+Aku sering merasa cemas tanpa alasan yang jelas.,curhat,negatif,sering merasa cemas tanpa alasan jelas
+Aku sering membandingkan diriku dengan orang lain.,curhat,negatif,sering membandingkan diriku orang lain
+Aku ingin menabung tapi pengeluaranku selalu besar.,curhat,negatif,ingin menabung tapi pengeluaranku selalu besar
+Aku sering merasa sendirian meskipun ada orang di sekitarku.,curhat,negatif,sering merasa sendirian meskipun ada orang sekitarku
+Aku merasa tidak cukup baik dalam segala hal.,curhat,negatif,merasa cukup baik segala hal
+Bagaimana menghadapi kegagalan tanpa kehilangan motivasi?,minta_saran,netral,menghadapi kegagalan tanpa kehilangan motivasi
+Aku kelelahan karena sering lembur tanpa bayaran tambahan.,curhat,negatif,kelelahan sering lembur tanpa bayaran tambahan
+Apa kabar? Aku ingin ngobrol santai.,ngobrol,netral,kabar ingin ngobrol santai
+Aku sering stres karena harus membayar cicilan tiap bulan.,curhat,negatif,sering stres harus membayar cicilan tiap bulan
+Aku merasa orang-orang tidak memahami luka batinku.,curhat,negatif,merasa orangorang memahami luka batinku
+Aku kelelahan karena sering lembur tanpa bayaran tambahan.,curhat,negatif,kelelahan sering lembur tanpa bayaran tambahan
+Aku sering merasa diremehkan oleh orang-orang di sekitarku.,curhat,negatif,sering merasa diremehkan orangorang sekitarku
+Aku merasa tidak cukup baik dalam segala hal.,curhat,negatif,merasa cukup baik segala hal
+Apa yang bisa aku lakukan untuk mengurangi kecemasan?,ngobrol,netral,lakukan mengurangi kecemasan
+Aku khawatir dengan masa depan finansialku.,curhat,negatif,khawatir masa depan finansialku
+Aku kecewa dengan teman yang tidak mendukungku.,curhat,negatif,kecewa teman mendukungku
+Aku kelelahan karena sering lembur tanpa bayaran tambahan.,curhat,negatif,kelelahan sering lembur tanpa bayaran tambahan
+Aku sering merasa sendirian meskipun ada orang di sekitarku.,curhat,negatif,sering merasa sendirian meskipun ada orang sekitarku
+Aku sering stres karena harus membayar cicilan tiap bulan.,curhat,negatif,sering stres harus membayar cicilan tiap bulan
+Apa kabar? Aku ingin ngobrol santai.,ngobrol,netral,kabar ingin ngobrol santai
+Aku sering berpikir negatif tentang diriku sendiri.,curhat,negatif,sering berpikir negatif tentang diriku sendiri
+Aku sering merasa sendirian meskipun ada orang di sekitarku.,curhat,negatif,sering merasa sendirian meskipun ada orang sekitarku
+Aku merasa tidak mampu mencapai apa yang aku impikan.,curhat,negatif,merasa mampu mencapai impikan
+Bagaimana menghadapi kegagalan tanpa kehilangan motivasi?,minta_saran,netral,menghadapi kegagalan tanpa kehilangan motivasi
+Aku sering merasa diremehkan oleh orang-orang di sekitarku.,curhat,negatif,sering merasa diremehkan orangorang sekitarku
+Aku merasa tidak cukup baik dalam segala hal.,curhat,negatif,merasa cukup baik segala hal
+Aku sulit tidur karena selalu overthinking.,curhat,negatif,sulit tidur selalu overthinking
+Aku takut kehilangan pekerjaan dan tidak bisa memenuhi kebutuhan hidup.,curhat,negatif,takut kehilangan pekerjaan memenuhi kebutuhan hidup
+Aku merasa stuck di pekerjaan yang tidak aku sukai.,curhat,negatif,merasa stuck pekerjaan sukai
+Bagaimana menghadapi kegagalan tanpa kehilangan motivasi?,minta_saran,netral,menghadapi kegagalan tanpa kehilangan motivasi
+Aku ingin menabung tapi pengeluaranku selalu besar.,curhat,negatif,ingin menabung tapi pengeluaranku selalu besar
+Aku ingin mengatasi ketakutan masa lalu tapi sulit sekali.,curhat,negatif,ingin mengatasi ketakutan masa lalu tapi sulit sekali
+Apa langkah pertama untuk membangun kepercayaan diri?,minta_saran,netral,langkah pertama membangun kepercayaan diri
+Bagaimana cara meningkatkan kebahagiaan dalam hidup?,ngobrol,netral,cara meningkatkan kebahagiaan hidup
+Aku sering stres karena harus membayar cicilan tiap bulan.,curhat,negatif,sering stres harus membayar cicilan tiap bulan
+Aku sering merasa cemas tanpa alasan yang jelas.,curhat,negatif,sering merasa cemas tanpa alasan jelas
+Aku merasa depresi dan tidak punya semangat hidup.,curhat,negatif,merasa depresi punya semangat hidup
+Bagaimana cara mengatasi overthinking setiap malam?,minta_saran,netral,cara mengatasi overthinking setiap malam
+Aku ingin merasa lebih baik tapi tidak tahu caranya.,curhat,negatif,ingin merasa baik tapi tahu caranya
+Bagaimana cara meningkatkan kebahagiaan dalam hidup?,ngobrol,netral,cara meningkatkan kebahagiaan hidup
+"Halo, bagaimana harimu?",ngobrol,netral,halo harimu
+Apa langkah pertama untuk membangun kepercayaan diri?,minta_saran,netral,langkah pertama membangun kepercayaan diri
+Aku ingin lebih percaya diri dalam hubungan sosial.,curhat,negatif,ingin percaya diri hubungan sosial
+Aku sering merasa sendirian meskipun ada orang di sekitarku.,curhat,negatif,sering merasa sendirian meskipun ada orang sekitarku
+Aku kelelahan karena sering lembur tanpa bayaran tambahan.,curhat,negatif,kelelahan sering lembur tanpa bayaran tambahan
+Aku sering merasa cemas tanpa alasan yang jelas.,curhat,negatif,sering merasa cemas tanpa alasan jelas
+Aku pernah di-bully dan itu masih menyakitiku sampai sekarang.,curhat,negatif,pernah dibully masih menyakitiku sampai sekarang
+Bagaimana cara menghadapi orang toxic tanpa stres?,minta_saran,netral,cara menghadapi orang toxic tanpa stres
+Aku pernah di-bully dan itu masih menyakitiku sampai sekarang.,curhat,negatif,pernah dibully masih menyakitiku sampai sekarang
+Aku sering merasa sendirian meskipun ada orang di sekitarku.,curhat,negatif,sering merasa sendirian meskipun ada orang sekitarku
+Aku mengalami kejadian traumatis yang sulit aku lupakan.,curhat,negatif,mengalami kejadian traumatis sulit lupakan
+Aku sering merasa cemas tanpa alasan yang jelas.,curhat,negatif,sering merasa cemas tanpa alasan jelas
+Aku merasa gaji yang aku dapatkan tidak cukup.,curhat,negatif,merasa gaji dapatkan cukup
+Bagaimana cara mengatasi overthinking setiap malam?,minta_saran,netral,cara mengatasi overthinking setiap malam
+Apa yang bisa aku lakukan untuk mengurangi kecemasan?,ngobrol,netral,lakukan mengurangi kecemasan
+Aku sulit tidur karena selalu overthinking.,curhat,negatif,sulit tidur selalu overthinking
+Aku merasa sendirian meskipun punya banyak teman.,curhat,negatif,merasa sendirian meskipun punya banyak teman
+Aku sering berpikir negatif tentang diriku sendiri.,curhat,negatif,sering berpikir negatif tentang diriku sendiri
+Aku merasa sendirian meskipun punya banyak teman.,curhat,negatif,merasa sendirian meskipun punya banyak teman
+Aku merasa sendirian meskipun punya banyak teman.,curhat,negatif,merasa sendirian meskipun punya banyak teman
+Aku takut kehilangan pekerjaan dan tidak bisa memenuhi kebutuhan hidup.,curhat,negatif,takut kehilangan pekerjaan memenuhi kebutuhan hidup
+Apa cara terbaik untuk menjaga kesehatan mental sehari-hari?,minta_saran,netral,cara terbaik menjaga kesehatan mental seharihari
+Aku ingin lebih percaya diri dalam hubungan sosial.,curhat,negatif,ingin percaya diri hubungan sosial
+Aku merasa gaji yang aku dapatkan tidak cukup.,curhat,negatif,merasa gaji dapatkan cukup
+Aku mengalami kejadian traumatis yang sulit aku lupakan.,curhat,negatif,mengalami kejadian traumatis sulit lupakan
+Aku sering merasa diremehkan oleh orang-orang di sekitarku.,curhat,negatif,sering merasa diremehkan orangorang sekitarku
+Apa langkah pertama untuk membangun kepercayaan diri?,minta_saran,netral,langkah pertama membangun kepercayaan diri
+Bagaimana cara meningkatkan kebahagiaan dalam hidup?,ngobrol,netral,cara meningkatkan kebahagiaan hidup
+Aku merasa sendirian meskipun punya banyak teman.,curhat,negatif,merasa sendirian meskipun punya banyak teman
+Aku mengalami kejadian traumatis yang sulit aku lupakan.,curhat,negatif,mengalami kejadian traumatis sulit lupakan
+Ceritakan sesuatu yang bisa membuatku semangat.,ngobrol,netral,ceritakan sesuatu membuatku semangat
+Aku merasa tidak mampu mencapai apa yang aku impikan.,curhat,negatif,merasa mampu mencapai impikan
+Aku ingin memulai bisnis tapi takut gagal.,curhat,negatif,ingin memulai bisnis tapi takut gagal
+Aku sering merasa sendirian meskipun ada orang di sekitarku.,curhat,negatif,sering merasa sendirian meskipun ada orang sekitarku
+"Halo, bagaimana harimu?",ngobrol,netral,halo harimu
+Aku ingin lebih percaya diri tapi selalu ragu.,curhat,negatif,ingin percaya diri tapi selalu ragu
+Aku ingin menabung tapi pengeluaranku selalu besar.,curhat,negatif,ingin menabung tapi pengeluaranku selalu besar
+Aku sering berpikir negatif tentang diriku sendiri.,curhat,negatif,sering berpikir negatif tentang diriku sendiri
+Aku ingin menabung tapi pengeluaranku selalu besar.,curhat,negatif,ingin menabung tapi pengeluaranku selalu besar
+Aku pernah di-bully dan itu masih menyakitiku sampai sekarang.,curhat,negatif,pernah dibully masih menyakitiku sampai sekarang
+Aku sering merasa cemas tanpa alasan yang jelas.,curhat,negatif,sering merasa cemas tanpa alasan jelas
+Bagaimana menghadapi kegagalan tanpa kehilangan motivasi?,minta_saran,netral,menghadapi kegagalan tanpa kehilangan motivasi
+Aku kelelahan karena sering lembur tanpa bayaran tambahan.,curhat,negatif,kelelahan sering lembur tanpa bayaran tambahan
+Aku merasa stuck di pekerjaan yang tidak aku sukai.,curhat,negatif,merasa stuck pekerjaan sukai
+Bagaimana cara meningkatkan kebahagiaan dalam hidup?,ngobrol,netral,cara meningkatkan kebahagiaan hidup
+Aku merasa sendirian meskipun punya banyak teman.,curhat,negatif,merasa sendirian meskipun punya banyak teman
+Aku tidak tahu apakah harus bertahan atau melepaskannya.,curhat,negatif,tahu apakah harus bertahan melepaskannya
+Bagaimana cara meningkatkan kebahagiaan dalam hidup?,ngobrol,netral,cara meningkatkan kebahagiaan hidup
+Apa yang bisa aku lakukan untuk mengurangi kecemasan?,ngobrol,netral,lakukan mengurangi kecemasan
+Aku ingin lebih percaya diri dalam hubungan sosial.,curhat,negatif,ingin percaya diri hubungan sosial
+Aku pernah di-bully dan itu masih menyakitiku sampai sekarang.,curhat,negatif,pernah dibully masih menyakitiku sampai sekarang
+Aku ingin menabung tapi pengeluaranku selalu besar.,curhat,negatif,ingin menabung tapi pengeluaranku selalu besar
+Apa kabar? Aku ingin ngobrol santai.,ngobrol,netral,kabar ingin ngobrol santai
+Aku sering berpikir negatif tentang diriku sendiri.,curhat,negatif,sering berpikir negatif tentang diriku sendiri
+Aku merasa stuck di pekerjaan yang tidak aku sukai.,curhat,negatif,merasa stuck pekerjaan sukai
+Aku sulit tidur karena selalu overthinking.,curhat,negatif,sulit tidur selalu overthinking
+Aku merasa tidak mampu mencapai apa yang aku impikan.,curhat,negatif,merasa mampu mencapai impikan
+Aku ingin merasa lebih baik tapi tidak tahu caranya.,curhat,negatif,ingin merasa baik tapi tahu caranya
+Bagaimana cara menghadapi orang toxic tanpa stres?,minta_saran,netral,cara menghadapi orang toxic tanpa stres
+Bagaimana menghadapi kegagalan tanpa kehilangan motivasi?,minta_saran,netral,menghadapi kegagalan tanpa kehilangan motivasi
+Bagaimana menghadapi kegagalan tanpa kehilangan motivasi?,minta_saran,netral,menghadapi kegagalan tanpa kehilangan motivasi
+Aku merasa orang-orang tidak memahami luka batinku.,curhat,negatif,merasa orangorang memahami luka batinku
+Bagaimana cara menghadapi orang toxic tanpa stres?,minta_saran,netral,cara menghadapi orang toxic tanpa stres
+Aku sering berpikir negatif tentang diriku sendiri.,curhat,negatif,sering berpikir negatif tentang diriku sendiri
+Aku kecewa dengan teman yang tidak mendukungku.,curhat,negatif,kecewa teman mendukungku
+Apa langkah pertama untuk membangun kepercayaan diri?,minta_saran,netral,langkah pertama membangun kepercayaan diri
+Aku merasa tidak mampu mencapai apa yang aku impikan.,curhat,negatif,merasa mampu mencapai impikan
+Aku tidak tahu apakah harus bertahan atau melepaskannya.,curhat,negatif,tahu apakah harus bertahan melepaskannya
+Aku ingin lebih percaya diri tapi selalu ragu.,curhat,negatif,ingin percaya diri tapi selalu ragu
+Aku cemas setiap hari karena takut dimarahi bos.,curhat,negatif,cemas setiap hari takut dimarahi bos
+Aku sering stres karena harus membayar cicilan tiap bulan.,curhat,negatif,sering stres harus membayar cicilan tiap bulan
+Aku sering merasa diremehkan oleh orang-orang di sekitarku.,curhat,negatif,sering merasa diremehkan orangorang sekitarku
+Aku merasa gaji yang aku dapatkan tidak cukup.,curhat,negatif,merasa gaji dapatkan cukup
+Aku sering berpikir negatif tentang diriku sendiri.,curhat,negatif,sering berpikir negatif tentang diriku sendiri
+Bagaimana cara menghadapi orang toxic tanpa stres?,minta_saran,netral,cara menghadapi orang toxic tanpa stres
+Apa cara terbaik untuk menjaga kesehatan mental sehari-hari?,minta_saran,netral,cara terbaik menjaga kesehatan mental seharihari
+Apa kabar? Aku ingin ngobrol santai.,ngobrol,netral,kabar ingin ngobrol santai
+Aku merasa depresi dan tidak punya semangat hidup.,curhat,negatif,merasa depresi punya semangat hidup
+Aku sering merasa cemas tanpa alasan yang jelas.,curhat,negatif,sering merasa cemas tanpa alasan jelas
+Aku kecewa dengan teman yang tidak mendukungku.,curhat,negatif,kecewa teman mendukungku
+Aku sering merasa sendirian meskipun ada orang di sekitarku.,curhat,negatif,sering merasa sendirian meskipun ada orang sekitarku
+Apa cara terbaik untuk menjaga kesehatan mental sehari-hari?,minta_saran,netral,cara terbaik menjaga kesehatan mental seharihari
+Aku ingin mengatasi ketakutan masa lalu tapi sulit sekali.,curhat,negatif,ingin mengatasi ketakutan masa lalu tapi sulit sekali
+Aku merasa depresi dan tidak punya semangat hidup.,curhat,negatif,merasa depresi punya semangat hidup
+Ceritakan sesuatu yang bisa membuatku semangat.,ngobrol,netral,ceritakan sesuatu membuatku semangat
+Bagaimana cara menghadapi orang toxic tanpa stres?,minta_saran,netral,cara menghadapi orang toxic tanpa stres
+Bagaimana cara meningkatkan kebahagiaan dalam hidup?,ngobrol,netral,cara meningkatkan kebahagiaan hidup
+Aku sering merasa sendirian meskipun ada orang di sekitarku.,curhat,negatif,sering merasa sendirian meskipun ada orang sekitarku
+Aku sulit tidur karena selalu overthinking.,curhat,negatif,sulit tidur selalu overthinking
+Bagaimana cara menghadapi orang toxic tanpa stres?,minta_saran,netral,cara menghadapi orang toxic tanpa stres
+Aku merasa sendirian meskipun punya banyak teman.,curhat,negatif,merasa sendirian meskipun punya banyak teman
+Aku ingin memulai bisnis tapi takut gagal.,curhat,negatif,ingin memulai bisnis tapi takut gagal
+Apa kabar? Aku ingin ngobrol santai.,ngobrol,netral,kabar ingin ngobrol santai
+Aku mengalami kejadian traumatis yang sulit aku lupakan.,curhat,negatif,mengalami kejadian traumatis sulit lupakan
+Apa cara terbaik untuk menjaga kesehatan mental sehari-hari?,minta_saran,netral,cara terbaik menjaga kesehatan mental seharihari
+Aku merasa orang-orang tidak memahami luka batinku.,curhat,negatif,merasa orangorang memahami luka batinku
+Aku ingin memulai bisnis tapi takut gagal.,curhat,negatif,ingin memulai bisnis tapi takut gagal
+Aku merasa stuck di pekerjaan yang tidak aku sukai.,curhat,negatif,merasa stuck pekerjaan sukai
+Aku merasa orang-orang tidak memahami luka batinku.,curhat,negatif,merasa orangorang memahami luka batinku
+Aku khawatir dengan masa depan finansialku.,curhat,negatif,khawatir masa depan finansialku
+Apa langkah pertama untuk membangun kepercayaan diri?,minta_saran,netral,langkah pertama membangun kepercayaan diri
+Aku takut kehilangan pekerjaan dan tidak bisa memenuhi kebutuhan hidup.,curhat,negatif,takut kehilangan pekerjaan memenuhi kebutuhan hidup
+Aku khawatir dengan masa depan finansialku.,curhat,negatif,khawatir masa depan finansialku
+Aku ingin menabung tapi pengeluaranku selalu besar.,curhat,negatif,ingin menabung tapi pengeluaranku selalu besar
+Aku merasa depresi dan tidak punya semangat hidup.,curhat,negatif,merasa depresi punya semangat hidup
+Aku merasa tertekan karena target kerja yang tinggi.,curhat,negatif,merasa tertekan target kerja tinggi
+Aku ingin menabung tapi pengeluaranku selalu besar.,curhat,negatif,ingin menabung tapi pengeluaranku selalu besar
+Apa yang bisa aku lakukan untuk mengurangi kecemasan?,ngobrol,netral,lakukan mengurangi kecemasan
+Aku merasa gaji yang aku dapatkan tidak cukup.,curhat,negatif,merasa gaji dapatkan cukup
+Aku ingin mengatasi ketakutan masa lalu tapi sulit sekali.,curhat,negatif,ingin mengatasi ketakutan masa lalu tapi sulit sekali
+Aku sering merasa cemas tanpa alasan yang jelas.,curhat,negatif,sering merasa cemas tanpa alasan jelas
+Aku sering berpikir negatif tentang diriku sendiri.,curhat,negatif,sering berpikir negatif tentang diriku sendiri
+Aku sering stres karena harus membayar cicilan tiap bulan.,curhat,negatif,sering stres harus membayar cicilan tiap bulan
+Aku mengalami kejadian traumatis yang sulit aku lupakan.,curhat,negatif,mengalami kejadian traumatis sulit lupakan
+Aku takut kehilangan pekerjaan dan tidak bisa memenuhi kebutuhan hidup.,curhat,negatif,takut kehilangan pekerjaan memenuhi kebutuhan hidup
+"Halo, bagaimana harimu?",ngobrol,netral,halo harimu
+Aku sering membandingkan diriku dengan orang lain.,curhat,negatif,sering membandingkan diriku orang lain
+Aku ingin lebih percaya diri dalam hubungan sosial.,curhat,negatif,ingin percaya diri hubungan sosial
+Apa langkah pertama untuk membangun kepercayaan diri?,minta_saran,netral,langkah pertama membangun kepercayaan diri
+Aku ingin mengatasi ketakutan masa lalu tapi sulit sekali.,curhat,negatif,ingin mengatasi ketakutan masa lalu tapi sulit sekali
+Aku mengalami kejadian traumatis yang sulit aku lupakan.,curhat,negatif,mengalami kejadian traumatis sulit lupakan
+Aku merasa orang-orang tidak memahami luka batinku.,curhat,negatif,merasa orangorang memahami luka batinku
+Aku merasa depresi dan tidak punya semangat hidup.,curhat,negatif,merasa depresi punya semangat hidup
+Aku sering merasa cemas tanpa alasan yang jelas.,curhat,negatif,sering merasa cemas tanpa alasan jelas
+Aku merasa stuck di pekerjaan yang tidak aku sukai.,curhat,negatif,merasa stuck pekerjaan sukai
+Bagaimana menghadapi kegagalan tanpa kehilangan motivasi?,minta_saran,netral,menghadapi kegagalan tanpa kehilangan motivasi
+Aku ingin merasa lebih baik tapi tidak tahu caranya.,curhat,negatif,ingin merasa baik tapi tahu caranya
+Aku sering merasa diremehkan oleh orang-orang di sekitarku.,curhat,negatif,sering merasa diremehkan orangorang sekitarku
+Apa cara terbaik untuk menjaga kesehatan mental sehari-hari?,minta_saran,netral,cara terbaik menjaga kesehatan mental seharihari
+Aku ingin memulai bisnis tapi takut gagal.,curhat,negatif,ingin memulai bisnis tapi takut gagal
+Apa kabar? Aku ingin ngobrol santai.,ngobrol,netral,kabar ingin ngobrol santai
+Aku sering mengingat pengalaman buruk dan merasa sedih.,curhat,negatif,sering mengingat pengalaman buruk merasa sedih
+Apa kabar? Aku ingin ngobrol santai.,ngobrol,netral,kabar ingin ngobrol santai
+Aku kelelahan karena sering lembur tanpa bayaran tambahan.,curhat,negatif,kelelahan sering lembur tanpa bayaran tambahan
+Aku merasa orang-orang tidak memahami luka batinku.,curhat,negatif,merasa orangorang memahami luka batinku
+Aku takut kehilangan pekerjaan dan tidak bisa memenuhi kebutuhan hidup.,curhat,negatif,takut kehilangan pekerjaan memenuhi kebutuhan hidup
+Aku ingin merasa lebih baik tapi tidak tahu caranya.,curhat,negatif,ingin merasa baik tapi tahu caranya
+Bagaimana cara menghadapi orang toxic tanpa stres?,minta_saran,netral,cara menghadapi orang toxic tanpa stres
+Aku sering merasa diremehkan oleh orang-orang di sekitarku.,curhat,negatif,sering merasa diremehkan orangorang sekitarku
+Aku takut kehilangan pekerjaan dan tidak bisa memenuhi kebutuhan hidup.,curhat,negatif,takut kehilangan pekerjaan memenuhi kebutuhan hidup
+Aku mengalami kejadian traumatis yang sulit aku lupakan.,curhat,negatif,mengalami kejadian traumatis sulit lupakan
+Aku merasa stuck di pekerjaan yang tidak aku sukai.,curhat,negatif,merasa stuck pekerjaan sukai
+Aku pernah di-bully dan itu masih menyakitiku sampai sekarang.,curhat,negatif,pernah dibully masih menyakitiku sampai sekarang
+Aku merasa stuck di pekerjaan yang tidak aku sukai.,curhat,negatif,merasa stuck pekerjaan sukai
+Aku khawatir dengan masa depan finansialku.,curhat,negatif,khawatir masa depan finansialku
+Aku mengalami kejadian traumatis yang sulit aku lupakan.,curhat,negatif,mengalami kejadian traumatis sulit lupakan
+Aku merasa tidak cukup baik dalam segala hal.,curhat,negatif,merasa cukup baik segala hal
+Bagaimana cara meningkatkan kebahagiaan dalam hidup?,ngobrol,netral,cara meningkatkan kebahagiaan hidup
+Aku sering berpikir negatif tentang diriku sendiri.,curhat,negatif,sering berpikir negatif tentang diriku sendiri
+Aku sering merasa diremehkan oleh orang-orang di sekitarku.,curhat,negatif,sering merasa diremehkan orangorang sekitarku
+Aku sering berpikir negatif tentang diriku sendiri.,curhat,negatif,sering berpikir negatif tentang diriku sendiri
+Aku sering membandingkan diriku dengan orang lain.,curhat,negatif,sering membandingkan diriku orang lain
+Aku sering berpikir negatif tentang diriku sendiri.,curhat,negatif,sering berpikir negatif tentang diriku sendiri
+Aku sering merasa diremehkan oleh orang-orang di sekitarku.,curhat,negatif,sering merasa diremehkan orangorang sekitarku
+Aku mengalami kejadian traumatis yang sulit aku lupakan.,curhat,negatif,mengalami kejadian traumatis sulit lupakan
+Aku sering merasa sendirian meskipun ada orang di sekitarku.,curhat,negatif,sering merasa sendirian meskipun ada orang sekitarku
+Aku kelelahan karena sering lembur tanpa bayaran tambahan.,curhat,negatif,kelelahan sering lembur tanpa bayaran tambahan
+Bagaimana cara menghadapi orang toxic tanpa stres?,minta_saran,netral,cara menghadapi orang toxic tanpa stres
+Aku merasa gaji yang aku dapatkan tidak cukup.,curhat,negatif,merasa gaji dapatkan cukup
+Aku khawatir dengan masa depan finansialku.,curhat,negatif,khawatir masa depan finansialku
+Aku ingin menabung tapi pengeluaranku selalu besar.,curhat,negatif,ingin menabung tapi pengeluaranku selalu besar
+Apa langkah pertama untuk membangun kepercayaan diri?,minta_saran,netral,langkah pertama membangun kepercayaan diri
+Aku merasa stuck di pekerjaan yang tidak aku sukai.,curhat,negatif,merasa stuck pekerjaan sukai
+Ceritakan sesuatu yang bisa membuatku semangat.,ngobrol,netral,ceritakan sesuatu membuatku semangat
+Bagaimana cara menghadapi orang toxic tanpa stres?,minta_saran,netral,cara menghadapi orang toxic tanpa stres
+Aku ingin lebih percaya diri dalam hubungan sosial.,curhat,negatif,ingin percaya diri hubungan sosial
+Apa kabar? Aku ingin ngobrol santai.,ngobrol,netral,kabar ingin ngobrol santai
+Aku merasa gaji yang aku dapatkan tidak cukup.,curhat,negatif,merasa gaji dapatkan cukup
+Aku merasa orang-orang tidak memahami luka batinku.,curhat,negatif,merasa orangorang memahami luka batinku
+Aku ingin lebih percaya diri tapi selalu ragu.,curhat,negatif,ingin percaya diri tapi selalu ragu
+Aku tidak tahu apakah harus bertahan atau melepaskannya.,curhat,negatif,tahu apakah harus bertahan melepaskannya
+Apa langkah pertama untuk membangun kepercayaan diri?,minta_saran,netral,langkah pertama membangun kepercayaan diri
+"Halo, bagaimana harimu?",ngobrol,netral,halo harimu
+Aku kelelahan karena sering lembur tanpa bayaran tambahan.,curhat,negatif,kelelahan sering lembur tanpa bayaran tambahan
+Aku pernah di-bully dan itu masih menyakitiku sampai sekarang.,curhat,negatif,pernah dibully masih menyakitiku sampai sekarang
+Aku merasa gaji yang aku dapatkan tidak cukup.,curhat,negatif,merasa gaji dapatkan cukup
+Aku tidak tahu apakah harus bertahan atau melepaskannya.,curhat,negatif,tahu apakah harus bertahan melepaskannya
+Aku merasa gaji yang aku dapatkan tidak cukup.,curhat,negatif,merasa gaji dapatkan cukup
+Aku sering mengingat pengalaman buruk dan merasa sedih.,curhat,negatif,sering mengingat pengalaman buruk merasa sedih
+Aku merasa tidak cukup baik dalam segala hal.,curhat,negatif,merasa cukup baik segala hal
+Aku cemas setiap hari karena takut dimarahi bos.,curhat,negatif,cemas setiap hari takut dimarahi bos
+Bagaimana menghadapi kegagalan tanpa kehilangan motivasi?,minta_saran,netral,menghadapi kegagalan tanpa kehilangan motivasi
+Bagaimana menghadapi kegagalan tanpa kehilangan motivasi?,minta_saran,netral,menghadapi kegagalan tanpa kehilangan motivasi
+Aku sulit tidur karena selalu overthinking.,curhat,negatif,sulit tidur selalu overthinking
+Aku sering mengingat pengalaman buruk dan merasa sedih.,curhat,negatif,sering mengingat pengalaman buruk merasa sedih
+Aku merasa sendirian meskipun punya banyak teman.,curhat,negatif,merasa sendirian meskipun punya banyak teman
+Aku merasa gaji yang aku dapatkan tidak cukup.,curhat,negatif,merasa gaji dapatkan cukup
+Aku ingin menabung tapi pengeluaranku selalu besar.,curhat,negatif,ingin menabung tapi pengeluaranku selalu besar
+Apa langkah pertama untuk membangun kepercayaan diri?,minta_saran,netral,langkah pertama membangun kepercayaan diri
+Aku merasa sendirian meskipun punya banyak teman.,curhat,negatif,merasa sendirian meskipun punya banyak teman
+Aku kelelahan karena sering lembur tanpa bayaran tambahan.,curhat,negatif,kelelahan sering lembur tanpa bayaran tambahan
+Aku tidak tahu apakah harus bertahan atau melepaskannya.,curhat,negatif,tahu apakah harus bertahan melepaskannya
+"Halo, bagaimana harimu?",ngobrol,netral,halo harimu
+Aku cemas setiap hari karena takut dimarahi bos.,curhat,negatif,cemas setiap hari takut dimarahi bos
+Aku sering merasa cemas tanpa alasan yang jelas.,curhat,negatif,sering merasa cemas tanpa alasan jelas
+Aku khawatir dengan masa depan finansialku.,curhat,negatif,khawatir masa depan finansialku
+Aku sering membandingkan diriku dengan orang lain.,curhat,negatif,sering membandingkan diriku orang lain
+Apa kabar? Aku ingin ngobrol santai.,ngobrol,netral,kabar ingin ngobrol santai
+Aku sering membandingkan diriku dengan orang lain.,curhat,negatif,sering membandingkan diriku orang lain
+Aku takut kehilangan pekerjaan dan tidak bisa memenuhi kebutuhan hidup.,curhat,negatif,takut kehilangan pekerjaan memenuhi kebutuhan hidup
+Aku merasa sendirian meskipun punya banyak teman.,curhat,negatif,merasa sendirian meskipun punya banyak teman
+Bagaimana cara mengatasi overthinking setiap malam?,minta_saran,netral,cara mengatasi overthinking setiap malam
+Aku pernah di-bully dan itu masih menyakitiku sampai sekarang.,curhat,negatif,pernah dibully masih menyakitiku sampai sekarang
+Aku sering merasa diremehkan oleh orang-orang di sekitarku.,curhat,negatif,sering merasa diremehkan orangorang sekitarku
+Apa kabar? Aku ingin ngobrol santai.,ngobrol,netral,kabar ingin ngobrol santai
+Apa cara terbaik untuk menjaga kesehatan mental sehari-hari?,minta_saran,netral,cara terbaik menjaga kesehatan mental seharihari
+Aku sulit tidur karena selalu overthinking.,curhat,negatif,sulit tidur selalu overthinking
+Aku takut kehilangan pekerjaan dan tidak bisa memenuhi kebutuhan hidup.,curhat,negatif,takut kehilangan pekerjaan memenuhi kebutuhan hidup
+Aku khawatir dengan masa depan finansialku.,curhat,negatif,khawatir masa depan finansialku
+Aku merasa tidak mampu mencapai apa yang aku impikan.,curhat,negatif,merasa mampu mencapai impikan
+Aku sering merasa cemas tanpa alasan yang jelas.,curhat,negatif,sering merasa cemas tanpa alasan jelas
+"Halo, bagaimana harimu?",ngobrol,netral,halo harimu
+Aku sering merasa sendirian meskipun ada orang di sekitarku.,curhat,negatif,sering merasa sendirian meskipun ada orang sekitarku
+Bagaimana cara meningkatkan kebahagiaan dalam hidup?,ngobrol,netral,cara meningkatkan kebahagiaan hidup
+"Halo, bagaimana harimu?",ngobrol,netral,halo harimu
+Aku sering mengingat pengalaman buruk dan merasa sedih.,curhat,negatif,sering mengingat pengalaman buruk merasa sedih
+Bagaimana cara menghadapi orang toxic tanpa stres?,minta_saran,netral,cara menghadapi orang toxic tanpa stres
+Aku merasa stuck di pekerjaan yang tidak aku sukai.,curhat,negatif,merasa stuck pekerjaan sukai
+Aku mengalami kejadian traumatis yang sulit aku lupakan.,curhat,negatif,mengalami kejadian traumatis sulit lupakan
+Aku ingin memulai bisnis tapi takut gagal.,curhat,negatif,ingin memulai bisnis tapi takut gagal
+Aku sering merasa diremehkan oleh orang-orang di sekitarku.,curhat,negatif,sering merasa diremehkan orangorang sekitarku
+Aku merasa stuck di pekerjaan yang tidak aku sukai.,curhat,negatif,merasa stuck pekerjaan sukai
+"Halo, bagaimana harimu?",ngobrol,netral,halo harimu
+Aku ingin merasa lebih baik tapi tidak tahu caranya.,curhat,negatif,ingin merasa baik tapi tahu caranya
+Aku takut kehilangan pekerjaan dan tidak bisa memenuhi kebutuhan hidup.,curhat,negatif,takut kehilangan pekerjaan memenuhi kebutuhan hidup
+Apa langkah pertama untuk membangun kepercayaan diri?,minta_saran,netral,langkah pertama membangun kepercayaan diri
+Bagaimana menghadapi kegagalan tanpa kehilangan motivasi?,minta_saran,netral,menghadapi kegagalan tanpa kehilangan motivasi
+Aku merasa depresi dan tidak punya semangat hidup.,curhat,negatif,merasa depresi punya semangat hidup
+Aku merasa stuck di pekerjaan yang tidak aku sukai.,curhat,negatif,merasa stuck pekerjaan sukai
+Aku merasa tertekan karena target kerja yang tinggi.,curhat,negatif,merasa tertekan target kerja tinggi
+Aku khawatir dengan masa depan finansialku.,curhat,negatif,khawatir masa depan finansialku
+Aku cemas setiap hari karena takut dimarahi bos.,curhat,negatif,cemas setiap hari takut dimarahi bos
+Aku merasa depresi dan tidak punya semangat hidup.,curhat,negatif,merasa depresi punya semangat hidup
+Apa cara terbaik untuk menjaga kesehatan mental sehari-hari?,minta_saran,netral,cara terbaik menjaga kesehatan mental seharihari
+Aku sering merasa cemas tanpa alasan yang jelas.,curhat,negatif,sering merasa cemas tanpa alasan jelas
+Aku ingin memulai bisnis tapi takut gagal.,curhat,negatif,ingin memulai bisnis tapi takut gagal
+Bagaimana menghadapi kegagalan tanpa kehilangan motivasi?,minta_saran,netral,menghadapi kegagalan tanpa kehilangan motivasi
+Apa cara terbaik untuk menjaga kesehatan mental sehari-hari?,minta_saran,netral,cara terbaik menjaga kesehatan mental seharihari
+"Halo, bagaimana harimu?",ngobrol,netral,halo harimu
+Bagaimana cara menghadapi orang toxic tanpa stres?,minta_saran,netral,cara menghadapi orang toxic tanpa stres
+Apa kabar? Aku ingin ngobrol santai.,ngobrol,netral,kabar ingin ngobrol santai
+Aku merasa depresi dan tidak punya semangat hidup.,curhat,negatif,merasa depresi punya semangat hidup
+Aku mengalami kejadian traumatis yang sulit aku lupakan.,curhat,negatif,mengalami kejadian traumatis sulit lupakan
+Aku merasa tertekan karena target kerja yang tinggi.,curhat,negatif,merasa tertekan target kerja tinggi
+Aku mengalami kejadian traumatis yang sulit aku lupakan.,curhat,negatif,mengalami kejadian traumatis sulit lupakan
+Aku merasa tertekan karena target kerja yang tinggi.,curhat,negatif,merasa tertekan target kerja tinggi
+Aku ingin merasa lebih baik tapi tidak tahu caranya.,curhat,negatif,ingin merasa baik tapi tahu caranya
+Aku kelelahan karena sering lembur tanpa bayaran tambahan.,curhat,negatif,kelelahan sering lembur tanpa bayaran tambahan
+Aku ingin merasa lebih baik tapi tidak tahu caranya.,curhat,negatif,ingin merasa baik tapi tahu caranya
+Aku sering merasa diremehkan oleh orang-orang di sekitarku.,curhat,negatif,sering merasa diremehkan orangorang sekitarku
+Aku ingin memulai bisnis tapi takut gagal.,curhat,negatif,ingin memulai bisnis tapi takut gagal
+Aku takut kehilangan pekerjaan dan tidak bisa memenuhi kebutuhan hidup.,curhat,negatif,takut kehilangan pekerjaan memenuhi kebutuhan hidup
+Aku ingin lebih percaya diri dalam hubungan sosial.,curhat,negatif,ingin percaya diri hubungan sosial
+Aku sering merasa sendirian meskipun ada orang di sekitarku.,curhat,negatif,sering merasa sendirian meskipun ada orang sekitarku
+Aku sering merasa cemas tanpa alasan yang jelas.,curhat,negatif,sering merasa cemas tanpa alasan jelas
+Aku tidak tahu apakah harus bertahan atau melepaskannya.,curhat,negatif,tahu apakah harus bertahan melepaskannya
+Aku kecewa dengan teman yang tidak mendukungku.,curhat,negatif,kecewa teman mendukungku
+Aku ingin menabung tapi pengeluaranku selalu besar.,curhat,negatif,ingin menabung tapi pengeluaranku selalu besar
+Apa yang bisa aku lakukan untuk mengurangi kecemasan?,ngobrol,netral,lakukan mengurangi kecemasan
+Apa langkah pertama untuk membangun kepercayaan diri?,minta_saran,netral,langkah pertama membangun kepercayaan diri
+Ceritakan sesuatu yang bisa membuatku semangat.,ngobrol,netral,ceritakan sesuatu membuatku semangat
+Aku pernah di-bully dan itu masih menyakitiku sampai sekarang.,curhat,negatif,pernah dibully masih menyakitiku sampai sekarang
+Aku sulit tidur karena selalu overthinking.,curhat,negatif,sulit tidur selalu overthinking
+Aku ingin menabung tapi pengeluaranku selalu besar.,curhat,negatif,ingin menabung tapi pengeluaranku selalu besar
+Aku cemas setiap hari karena takut dimarahi bos.,curhat,negatif,cemas setiap hari takut dimarahi bos
+Aku ingin lebih percaya diri tapi selalu ragu.,curhat,negatif,ingin percaya diri tapi selalu ragu
+Aku sering merasa diremehkan oleh orang-orang di sekitarku.,curhat,negatif,sering merasa diremehkan orangorang sekitarku
+Aku ingin merasa lebih baik tapi tidak tahu caranya.,curhat,negatif,ingin merasa baik tapi tahu caranya
+Aku sering merasa cemas tanpa alasan yang jelas.,curhat,negatif,sering merasa cemas tanpa alasan jelas
+Bagaimana menghadapi kegagalan tanpa kehilangan motivasi?,minta_saran,netral,menghadapi kegagalan tanpa kehilangan motivasi
+Aku merasa stuck di pekerjaan yang tidak aku sukai.,curhat,negatif,merasa stuck pekerjaan sukai
+Aku ingin lebih percaya diri dalam hubungan sosial.,curhat,negatif,ingin percaya diri hubungan sosial
+Apa kabar? Aku ingin ngobrol santai.,ngobrol,netral,kabar ingin ngobrol santai
+Aku khawatir dengan masa depan finansialku.,curhat,negatif,khawatir masa depan finansialku
+Aku sering stres karena harus membayar cicilan tiap bulan.,curhat,negatif,sering stres harus membayar cicilan tiap bulan
+Bagaimana cara mengatasi overthinking setiap malam?,minta_saran,netral,cara mengatasi overthinking setiap malam
+Bagaimana cara meningkatkan kebahagiaan dalam hidup?,ngobrol,netral,cara meningkatkan kebahagiaan hidup
+Aku sering membandingkan diriku dengan orang lain.,curhat,negatif,sering membandingkan diriku orang lain
+"Halo, bagaimana harimu?",ngobrol,netral,halo harimu
+Aku sering merasa cemas tanpa alasan yang jelas.,curhat,negatif,sering merasa cemas tanpa alasan jelas
+Aku merasa orang-orang tidak memahami luka batinku.,curhat,negatif,merasa orangorang memahami luka batinku
+Aku sulit tidur karena selalu overthinking.,curhat,negatif,sulit tidur selalu overthinking
+Bagaimana cara menghadapi orang toxic tanpa stres?,minta_saran,netral,cara menghadapi orang toxic tanpa stres
+Aku merasa gaji yang aku dapatkan tidak cukup.,curhat,negatif,merasa gaji dapatkan cukup
+Aku sering merasa diremehkan oleh orang-orang di sekitarku.,curhat,negatif,sering merasa diremehkan orangorang sekitarku
+Aku khawatir dengan masa depan finansialku.,curhat,negatif,khawatir masa depan finansialku
